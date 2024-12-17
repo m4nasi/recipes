@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  {% include head.html %}
+  <title>{{ page.title }}</title>
+  <style>
+    .recipe-container { max-width: 700px; margin: auto; }
+  </style>
+</head>
+<body>
+  <div class="recipe-container">
+    <h1>{{ page.title }}</h1>
+    <p><strong>Date:</strong> {{ page.date | date_to_string }}</p>
+    {{ content }}
+  </div>
+</body>
+</html>

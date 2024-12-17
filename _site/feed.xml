@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-12-17T11:30:49+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Recipe Website</title><subtitle>A website to display recipes in one location.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2024/12/17/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2024-12-17T10:53:16+00:00</published><updated>2024-12-17T10:53:16+00:00</updated><id>http://localhost:4000/jekyll/update/2024/12/17/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2024/12/17/welcome-to-jekyll.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+
+<p>Jekyll requires blog post files to be named according to the following format:</p>
+
+<p><code class="language-plaintext highlighter-rouge">YEAR-MONTH-DAY-title.MARKUP</code></p>
+
+<p>Where <code class="language-plaintext highlighter-rouge">YEAR</code> is a four-digit number, <code class="language-plaintext highlighter-rouge">MONTH</code> and <code class="language-plaintext highlighter-rouge">DAY</code> are both two-digit numbers, and <code class="language-plaintext highlighter-rouge">MARKUP</code> is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
+
+<p>Jekyll also offers powerful support for code snippets:</p>
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
+  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
+<span class="k">end</span>
+<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
+<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
+
+<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.]]></summary></entry><entry><title type="html">Avocado and Tomato Salad</title><link href="http://localhost:4000/recipes/vegetarian/salads/2024/06/17/avocado-tomato-salad.html" rel="alternate" type="text/html" title="Avocado and Tomato Salad" /><published>2024-06-17T17:00:00+01:00</published><updated>2024-06-17T17:00:00+01:00</updated><id>http://localhost:4000/recipes/vegetarian/salads/2024/06/17/avocado-tomato-salad</id><content type="html" xml:base="http://localhost:4000/recipes/vegetarian/salads/2024/06/17/avocado-tomato-salad.html"><![CDATA[<p>This refreshing <strong>Avocado and Tomato Salad</strong> is packed with flavour and nutrients. A light and healthy option for any meal.</p>
+
+<h2 id="ingredients">Ingredients:</h2>
+<ul>
+  <li>2 ripe avocados, diced</li>
+  <li>2 large tomatoes, chopped</li>
+  <li>1/2 red onion, thinly sliced</li>
+  <li>1 tbsp olive oil</li>
+  <li>1 tbsp lemon juice</li>
+  <li>Salt and pepper to taste</li>
+  <li>Fresh basil leaves for garnish</li>
+</ul>
+
+<h2 id="instructions">Instructions:</h2>
+<ol>
+  <li>In a large bowl, combine avocados, tomatoes, and red onion.</li>
+  <li>Drizzle with olive oil and lemon juice.</li>
+  <li>Season with salt and pepper to taste.</li>
+  <li>Toss gently to mix, garnish with fresh basil, and serve immediately.</li>
+</ol>
+
+<p>Perfect as a side dish or a light lunch!</p>]]></content><author><name></name></author><category term="recipes" /><category term="vegetarian" /><category term="salads" /><summary type="html"><![CDATA[This refreshing Avocado and Tomato Salad is packed with flavour and nutrients. A light and healthy option for any meal.]]></summary></entry><entry><title type="html">Chickpea and Spinach Curry</title><link href="http://localhost:4000/recipes/vegetarian/curry/2024/06/17/chickpea-spinach-curry.html" rel="alternate" type="text/html" title="Chickpea and Spinach Curry" /><published>2024-06-17T16:00:00+01:00</published><updated>2024-06-17T16:00:00+01:00</updated><id>http://localhost:4000/recipes/vegetarian/curry/2024/06/17/chickpea-spinach-curry</id><content type="html" xml:base="http://localhost:4000/recipes/vegetarian/curry/2024/06/17/chickpea-spinach-curry.html"><![CDATA[<p>This hearty <strong>Chickpea and Spinach Curry</strong> is packed with protein and flavour. A quick and healthy vegetarian option!</p>
+
+<h2 id="ingredients">Ingredients:</h2>
+<ul>
+  <li>1 can (400g) chickpeas, drained and rinsed</li>
+  <li>2 cups fresh spinach</li>
+  <li>1 onion, finely chopped</li>
+  <li>2 cloves garlic, minced</li>
+  <li>1 tsp grated ginger</li>
+  <li>1 can (400ml) coconut milk</li>
+  <li>1 tbsp curry powder</li>
+  <li>1 tsp turmeric powder</li>
+  <li>2 tbsp olive oil</li>
+  <li>Salt to taste</li>
+</ul>
+
+<h2 id="instructions">Instructions:</h2>
+<ol>
+  <li>Heat olive oil in a large pan over medium heat.</li>
+  <li>Add chopped onion, garlic, and ginger, and sauté until soft.</li>
+  <li>Stir in curry powder and turmeric, and cook for 1 minute.</li>
+  <li>Add chickpeas and coconut milk. Simmer for 10 minutes.</li>
+  <li>Toss in the fresh spinach and cook until wilted.</li>
+  <li>Season with salt and serve with rice or naan bread.</li>
+</ol>
+
+<p>This curry is simple, nutritious, and perfect for meal prep!</p>]]></content><author><name></name></author><category term="recipes" /><category term="vegetarian" /><category term="curry" /><summary type="html"><![CDATA[This hearty Chickpea and Spinach Curry is packed with protein and flavour. A quick and healthy vegetarian option!]]></summary></entry><entry><title type="html">Vegetarian Stir-Fried Noodles</title><link href="http://localhost:4000/recipes/vegetarian/quick-meals/2024/06/17/vegetarian-stir-fried-noodles.html" rel="alternate" type="text/html" title="Vegetarian Stir-Fried Noodles" /><published>2024-06-17T14:00:00+01:00</published><updated>2024-06-17T14:00:00+01:00</updated><id>http://localhost:4000/recipes/vegetarian/quick-meals/2024/06/17/vegetarian-stir-fried-noodles</id><content type="html" xml:base="http://localhost:4000/recipes/vegetarian/quick-meals/2024/06/17/vegetarian-stir-fried-noodles.html"><![CDATA[<p>Looking for a quick and delicious meal? These <strong>Vegetarian Stir-Fried Noodles</strong> are packed with flavour and loaded with fresh veggies!</p>
+
+<h2 id="ingredients">Ingredients:</h2>
+<ul>
+  <li>200g egg noodles or rice noodles</li>
+  <li>1 carrot, julienned</li>
+  <li>1 red bell pepper, sliced</li>
+  <li>1 cup broccoli florets</li>
+  <li>1/2 cup snow peas</li>
+  <li>2 tbsp soy sauce</li>
+  <li>1 tbsp sesame oil</li>
+  <li>1 clove garlic, minced</li>
+  <li>1 tsp ginger, grated</li>
+  <li>1 spring onion, chopped</li>
+</ul>
+
+<h2 id="instructions">Instructions:</h2>
+<ol>
+  <li>Cook the noodles according to the package instructions. Drain and set aside.</li>
+  <li>Heat sesame oil in a large pan or wok over medium-high heat.</li>
+  <li>Add garlic and ginger, and stir-fry for 30 seconds until fragrant.</li>
+  <li>Toss in the vegetables and stir-fry for 3-4 minutes.</li>
+  <li>Add the cooked noodles and soy sauce, and mix well.</li>
+  <li>Garnish with spring onion and serve hot!</li>
+</ol>
+
+<p>Perfect for a quick dinner or lunch.</p>]]></content><author><name></name></author><category term="recipes" /><category term="vegetarian" /><category term="quick-meals" /><summary type="html"><![CDATA[Looking for a quick and delicious meal? These Vegetarian Stir-Fried Noodles are packed with flavour and loaded with fresh veggies!]]></summary></entry><entry><title type="html">Classic Margherita Pizza</title><link href="http://localhost:4000/recipes/vegetarian/2024/06/17/margerita-pizza.html" rel="alternate" type="text/html" title="Classic Margherita Pizza" /><published>2024-06-17T13:00:00+01:00</published><updated>2024-06-17T13:00:00+01:00</updated><id>http://localhost:4000/recipes/vegetarian/2024/06/17/margerita-pizza</id><content type="html" xml:base="http://localhost:4000/recipes/vegetarian/2024/06/17/margerita-pizza.html"><![CDATA[<p>Nothing beats a classic <strong>Margherita Pizza</strong> with fresh basil, juicy tomatoes, and melty mozzarella. Here’s a simple recipe you can whip up in no time!</p>
+
+<h2 id="ingredients">Ingredients:</h2>
+<ul>
+  <li>1 pizza dough (store-bought or homemade)</li>
+  <li>1 cup tomato sauce</li>
+  <li>2 fresh tomatoes, sliced</li>
+  <li>250g mozzarella cheese, sliced</li>
+  <li>Fresh basil leaves</li>
+  <li>Olive oil</li>
+  <li>Salt and pepper to taste</li>
+</ul>
+
+<h2 id="instructions">Instructions:</h2>
+<ol>
+  <li>Preheat the oven to 220°C (430°F).</li>
+  <li>Roll out the pizza dough and place it on a baking tray or pizza stone.</li>
+  <li>Spread the tomato sauce evenly on the dough.</li>
+  <li>Top with sliced tomatoes and mozzarella cheese.</li>
+  <li>Drizzle a little olive oil and season with salt and pepper.</li>
+  <li>Bake for 12-15 minutes or until the crust is golden and the cheese is bubbly.</li>
+  <li>Remove from the oven, garnish with fresh basil leaves, and enjoy!</li>
+</ol>
+
+<p>Enjoy your homemade classic Margherita Pizza!</p>]]></content><author><name></name></author><category term="recipes" /><category term="vegetarian" /><summary type="html"><![CDATA[Nothing beats a classic Margherita Pizza with fresh basil, juicy tomatoes, and melty mozzarella. Here’s a simple recipe you can whip up in no time!]]></summary></entry></feed>
