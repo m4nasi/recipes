@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/recipes/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/recipes/" rel="alternate" type="text/html" /><updated>2024-12-17T16:25:59+00:00</updated><id>http://localhost:4000/recipes/feed.xml</id><title type="html">Recipe Website</title><subtitle>A website to display recipes in one location.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/recipes/jekyll/update/2024/12/17/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2024-12-17T10:53:16+00:00</published><updated>2024-12-17T10:53:16+00:00</updated><id>http://localhost:4000/recipes/jekyll/update/2024/12/17/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/recipes/jekyll/update/2024/12/17/welcome-to-jekyll.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/recipes/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/recipes/" rel="alternate" type="text/html" /><updated>2024-12-17T18:57:19+00:00</updated><id>http://localhost:4000/recipes/feed.xml</id><title type="html">Recipe Website</title><subtitle>A website to display recipes in one location.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/recipes/jekyll/update/2024/12/17/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2024-12-17T10:53:16+00:00</published><updated>2024-12-17T10:53:16+00:00</updated><id>http://localhost:4000/recipes/jekyll/update/2024/12/17/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/recipes/jekyll/update/2024/12/17/welcome-to-jekyll.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
 
 <p>Jekyll requires blog post files to be named according to the following format:</p>
 
@@ -35,7 +35,43 @@
   <li>Toss gently to mix, garnish with fresh basil, and serve immediately.</li>
 </ol>
 
-<p>Perfect as a side dish or a light lunch!</p>]]></content><author><name></name></author><category term="recipes" /><category term="vegetarian" /><category term="salads" /><summary type="html"><![CDATA[This refreshing Avocado and Tomato Salad is packed with flavour and nutrients. A light and healthy option for any meal.]]></summary></entry><entry><title type="html">Chickpea and Spinach Curry</title><link href="http://localhost:4000/recipes/recipes/vegetarian/curry/2024/06/17/chickpea-spinach-curry.html" rel="alternate" type="text/html" title="Chickpea and Spinach Curry" /><published>2024-06-17T16:00:00+01:00</published><updated>2024-06-17T16:00:00+01:00</updated><id>http://localhost:4000/recipes/recipes/vegetarian/curry/2024/06/17/chickpea-spinach-curry</id><content type="html" xml:base="http://localhost:4000/recipes/recipes/vegetarian/curry/2024/06/17/chickpea-spinach-curry.html"><![CDATA[<p>This hearty <strong>Chickpea and Spinach Curry</strong> is packed with protein and flavour. A quick and healthy vegetarian option!</p>
+<p>Perfect as a side dish or a light lunch!</p>]]></content><author><name></name></author><category term="recipes" /><category term="vegetarian" /><category term="salads" /><summary type="html"><![CDATA[This refreshing Avocado and Tomato Salad is packed with flavour and nutrients. A light and healthy option for any meal.]]></summary></entry><entry><title type="html">Blueberry Lemon Drizzle Loaf Cake</title><link href="http://localhost:4000/recipes/recipes/vegan/cake/2024/06/17/blueberry-lemon-drizzle-loaf-cake.html" rel="alternate" type="text/html" title="Blueberry Lemon Drizzle Loaf Cake" /><published>2024-06-17T16:00:00+01:00</published><updated>2024-06-17T16:00:00+01:00</updated><id>http://localhost:4000/recipes/recipes/vegan/cake/2024/06/17/blueberry-lemon-drizzle-loaf-cake</id><content type="html" xml:base="http://localhost:4000/recipes/recipes/vegan/cake/2024/06/17/blueberry-lemon-drizzle-loaf-cake.html"><![CDATA[<p>This is a blueberry lemon drizzle cake!</p>
+
+<h2 id="ingredients">Ingredients:</h2>
+<ul>
+  <li>1 cup melted butter</li>
+  <li>1/2 cup yogurt</li>
+  <li>1 1/2 cup maida/flour</li>
+  <li>1/2 cup custard powder</li>
+  <li>1 tbsp vanilla extract liquid</li>
+  <li>20 blueberries coated in flour</li>
+  <li>2 tbsp baking soda</li>
+  <li>1 tsp bicarbonate soda</li>
+  <li>1 tbsp sunflower oil</li>
+  <li>2 tbsp lemon zest</li>
+</ul>
+
+<h1 id="drizzle">Drizzle:</h1>
+<ul>
+  <li>2/3 refined sugar</li>
+  <li>Half lemon juice</li>
+</ul>
+
+<h2 id="instructions">Instructions:</h2>
+<ol>
+  <li>Preheat oven 180 degree</li>
+  <li>Place the baking paper into the baking tray and slightly butter and dust flour over the baking paper</li>
+  <li>Mix the sugar and melted butter and yogurt until white and fluffy - whisk</li>
+  <li>Mix in the lemon zest and vanilla extract</li>
+  <li>Fold the flour in but don’t over mix</li>
+  <li>Add in bicarbonate soda and baking soda</li>
+  <li>Mix in the flour covered blueberries and be careful not to pop any</li>
+  <li>Pour the mixture into the baking tray and flatten it out, removing all air bubbles</li>
+  <li>Place blueberries on top</li>
+  <li>Bake for 20/25 mins (until the knife is clean)</li>
+  <li>Mix the refined sugar with lemon juice</li>
+  <li>Wait til completely cooled down and drizzle the lemon drizzle over the cake</li>
+</ol>]]></content><author><name></name></author><category term="recipes" /><category term="vegan" /><category term="cake" /><summary type="html"><![CDATA[This is a blueberry lemon drizzle cake!]]></summary></entry><entry><title type="html">Chickpea and Spinach Curry</title><link href="http://localhost:4000/recipes/recipes/vegetarian/curry/2024/06/17/chickpea-spinach-curry.html" rel="alternate" type="text/html" title="Chickpea and Spinach Curry" /><published>2024-06-17T16:00:00+01:00</published><updated>2024-06-17T16:00:00+01:00</updated><id>http://localhost:4000/recipes/recipes/vegetarian/curry/2024/06/17/chickpea-spinach-curry</id><content type="html" xml:base="http://localhost:4000/recipes/recipes/vegetarian/curry/2024/06/17/chickpea-spinach-curry.html"><![CDATA[<p>This hearty <strong>Chickpea and Spinach Curry</strong> is packed with protein and flavour. A quick and healthy vegetarian option!</p>
 
 <h2 id="ingredients">Ingredients:</h2>
 <ul>
