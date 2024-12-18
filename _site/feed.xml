@@ -1,20 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/recipes/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/recipes/" rel="alternate" type="text/html" /><updated>2024-12-18T13:24:37+00:00</updated><id>http://localhost:4000/recipes/feed.xml</id><title type="html">Recipe Website</title><subtitle>A website to display recipes in one location.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/recipes/jekyll/update/2024/12/17/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2024-12-17T10:53:16+00:00</published><updated>2024-12-17T10:53:16+00:00</updated><id>http://localhost:4000/recipes/jekyll/update/2024/12/17/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/recipes/jekyll/update/2024/12/17/welcome-to-jekyll.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
-
-<p>Jekyll requires blog post files to be named according to the following format:</p>
-
-<p><code class="language-plaintext highlighter-rouge">YEAR-MONTH-DAY-title.MARKUP</code></p>
-
-<p>Where <code class="language-plaintext highlighter-rouge">YEAR</code> is a four-digit number, <code class="language-plaintext highlighter-rouge">MONTH</code> and <code class="language-plaintext highlighter-rouge">DAY</code> are both two-digit numbers, and <code class="language-plaintext highlighter-rouge">MARKUP</code> is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
-
-<p>Jekyll also offers powerful support for code snippets:</p>
-
-<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
-  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
-<span class="k">end</span>
-<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
-<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
-
-<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.]]></summary></entry><entry><title type="html">Avocado and Tomato Salad</title><link href="http://localhost:4000/recipes/recipes/vegetarian/salads/2024/06/17/avocado-tomato-salad.html" rel="alternate" type="text/html" title="Avocado and Tomato Salad" /><published>2024-06-17T17:00:00+01:00</published><updated>2024-06-17T17:00:00+01:00</updated><id>http://localhost:4000/recipes/recipes/vegetarian/salads/2024/06/17/avocado-tomato-salad</id><content type="html" xml:base="http://localhost:4000/recipes/recipes/vegetarian/salads/2024/06/17/avocado-tomato-salad.html"><![CDATA[<p>This refreshing <strong>Avocado and Tomato Salad</strong> is packed with flavour and nutrients. A light and healthy option for any meal.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/recipes/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/recipes/" rel="alternate" type="text/html" /><updated>2024-12-18T13:25:12+00:00</updated><id>http://localhost:4000/recipes/feed.xml</id><title type="html">Recipe Website</title><subtitle>A website to display recipes in one location.</subtitle><entry><title type="html">Avocado and Tomato Salad</title><link href="http://localhost:4000/recipes/recipes/vegetarian/salads/2024/06/17/avocado-tomato-salad.html" rel="alternate" type="text/html" title="Avocado and Tomato Salad" /><published>2024-06-17T17:00:00+01:00</published><updated>2024-06-17T17:00:00+01:00</updated><id>http://localhost:4000/recipes/recipes/vegetarian/salads/2024/06/17/avocado-tomato-salad</id><content type="html" xml:base="http://localhost:4000/recipes/recipes/vegetarian/salads/2024/06/17/avocado-tomato-salad.html"><![CDATA[<p>This refreshing <strong>Avocado and Tomato Salad</strong> is packed with flavour and nutrients. A light and healthy option for any meal.</p>
 
 <h2 id="ingredients">Ingredients:</h2>
 <ul>
@@ -71,33 +55,7 @@
   <li>Bake for 20/25 mins (until the knife is clean)</li>
   <li>Mix the refined sugar with lemon juice</li>
   <li>Wait til completely cooled down and drizzle the lemon drizzle over the cake</li>
-</ol>]]></content><author><name></name></author><category term="recipes" /><category term="vegan" /><category term="cake" /><summary type="html"><![CDATA[This is a blueberry lemon drizzle cake!]]></summary></entry><entry><title type="html">Chickpea and Spinach Curry</title><link href="http://localhost:4000/recipes/recipes/vegetarian/curry/2024/06/17/chickpea-spinach-curry.html" rel="alternate" type="text/html" title="Chickpea and Spinach Curry" /><published>2024-06-17T16:00:00+01:00</published><updated>2024-06-17T16:00:00+01:00</updated><id>http://localhost:4000/recipes/recipes/vegetarian/curry/2024/06/17/chickpea-spinach-curry</id><content type="html" xml:base="http://localhost:4000/recipes/recipes/vegetarian/curry/2024/06/17/chickpea-spinach-curry.html"><![CDATA[<p>This hearty <strong>Chickpea and Spinach Curry</strong> is packed with protein and flavour. A quick and healthy vegetarian option!</p>
-
-<h2 id="ingredients">Ingredients:</h2>
-<ul>
-  <li>1 can (400g) chickpeas, drained and rinsed</li>
-  <li>2 cups fresh spinach</li>
-  <li>1 onion, finely chopped</li>
-  <li>2 cloves garlic, minced</li>
-  <li>1 tsp grated ginger</li>
-  <li>1 can (400ml) coconut milk</li>
-  <li>1 tbsp curry powder</li>
-  <li>1 tsp turmeric powder</li>
-  <li>2 tbsp olive oil</li>
-  <li>Salt to taste</li>
-</ul>
-
-<h2 id="instructions">Instructions:</h2>
-<ol>
-  <li>Heat olive oil in a large pan over medium heat.</li>
-  <li>Add chopped onion, garlic, and ginger, and sauté until soft.</li>
-  <li>Stir in curry powder and turmeric, and cook for 1 minute.</li>
-  <li>Add chickpeas and coconut milk. Simmer for 10 minutes.</li>
-  <li>Toss in the fresh spinach and cook until wilted.</li>
-  <li>Season with salt and serve with rice or naan bread.</li>
-</ol>
-
-<p>This curry is simple, nutritious, and perfect for meal prep!</p>]]></content><author><name></name></author><category term="recipes" /><category term="vegetarian" /><category term="curry" /><summary type="html"><![CDATA[This hearty Chickpea and Spinach Curry is packed with protein and flavour. A quick and healthy vegetarian option!]]></summary></entry><entry><title type="html">Burrito Bowl</title><link href="http://localhost:4000/recipes/recipes/vegetarian/mexican/2024/06/17/burrito-bowl.html" rel="alternate" type="text/html" title="Burrito Bowl" /><published>2024-06-17T16:00:00+01:00</published><updated>2024-06-17T16:00:00+01:00</updated><id>http://localhost:4000/recipes/recipes/vegetarian/mexican/2024/06/17/burrito-bowl</id><content type="html" xml:base="http://localhost:4000/recipes/recipes/vegetarian/mexican/2024/06/17/burrito-bowl.html"><![CDATA[<p>This is a Burrito bowl.</p>
+</ol>]]></content><author><name></name></author><category term="recipes" /><category term="vegan" /><category term="cake" /><summary type="html"><![CDATA[This is a blueberry lemon drizzle cake!]]></summary></entry><entry><title type="html">Burrito Bowl</title><link href="http://localhost:4000/recipes/recipes/vegetarian/mexican/2024/06/17/burrito-bowl.html" rel="alternate" type="text/html" title="Burrito Bowl" /><published>2024-06-17T16:00:00+01:00</published><updated>2024-06-17T16:00:00+01:00</updated><id>http://localhost:4000/recipes/recipes/vegetarian/mexican/2024/06/17/burrito-bowl</id><content type="html" xml:base="http://localhost:4000/recipes/recipes/vegetarian/mexican/2024/06/17/burrito-bowl.html"><![CDATA[<p>This is a Burrito bowl.</p>
 
 <h2 id="ingredients">Ingredients</h2>
 <ul>
@@ -128,7 +86,33 @@
   <li>Cook the black beans and mix in the fajita mix</li>
   <li>Heat up the wraps so warm</li>
   <li>Wrap burrito filling into wrap</li>
-</ol>]]></content><author><name></name></author><category term="recipes" /><category term="vegetarian" /><category term="mexican" /><summary type="html"><![CDATA[This is a Burrito bowl.]]></summary></entry><entry><title type="html">Vegetarian Stir-Fried Noodles</title><link href="http://localhost:4000/recipes/recipes/vegetarian/quick-meals/2024/06/17/vegetarian-stir-fried-noodles.html" rel="alternate" type="text/html" title="Vegetarian Stir-Fried Noodles" /><published>2024-06-17T14:00:00+01:00</published><updated>2024-06-17T14:00:00+01:00</updated><id>http://localhost:4000/recipes/recipes/vegetarian/quick-meals/2024/06/17/vegetarian-stir-fried-noodles</id><content type="html" xml:base="http://localhost:4000/recipes/recipes/vegetarian/quick-meals/2024/06/17/vegetarian-stir-fried-noodles.html"><![CDATA[<p>Looking for a quick and delicious meal? These <strong>Vegetarian Stir-Fried Noodles</strong> are packed with flavour and loaded with fresh veggies!</p>
+</ol>]]></content><author><name></name></author><category term="recipes" /><category term="vegetarian" /><category term="mexican" /><summary type="html"><![CDATA[This is a Burrito bowl.]]></summary></entry><entry><title type="html">Chickpea and Spinach Curry</title><link href="http://localhost:4000/recipes/recipes/vegetarian/curry/2024/06/17/chickpea-spinach-curry.html" rel="alternate" type="text/html" title="Chickpea and Spinach Curry" /><published>2024-06-17T16:00:00+01:00</published><updated>2024-06-17T16:00:00+01:00</updated><id>http://localhost:4000/recipes/recipes/vegetarian/curry/2024/06/17/chickpea-spinach-curry</id><content type="html" xml:base="http://localhost:4000/recipes/recipes/vegetarian/curry/2024/06/17/chickpea-spinach-curry.html"><![CDATA[<p>This hearty <strong>Chickpea and Spinach Curry</strong> is packed with protein and flavour. A quick and healthy vegetarian option!</p>
+
+<h2 id="ingredients">Ingredients:</h2>
+<ul>
+  <li>1 can (400g) chickpeas, drained and rinsed</li>
+  <li>2 cups fresh spinach</li>
+  <li>1 onion, finely chopped</li>
+  <li>2 cloves garlic, minced</li>
+  <li>1 tsp grated ginger</li>
+  <li>1 can (400ml) coconut milk</li>
+  <li>1 tbsp curry powder</li>
+  <li>1 tsp turmeric powder</li>
+  <li>2 tbsp olive oil</li>
+  <li>Salt to taste</li>
+</ul>
+
+<h2 id="instructions">Instructions:</h2>
+<ol>
+  <li>Heat olive oil in a large pan over medium heat.</li>
+  <li>Add chopped onion, garlic, and ginger, and sauté until soft.</li>
+  <li>Stir in curry powder and turmeric, and cook for 1 minute.</li>
+  <li>Add chickpeas and coconut milk. Simmer for 10 minutes.</li>
+  <li>Toss in the fresh spinach and cook until wilted.</li>
+  <li>Season with salt and serve with rice or naan bread.</li>
+</ol>
+
+<p>This curry is simple, nutritious, and perfect for meal prep!</p>]]></content><author><name></name></author><category term="recipes" /><category term="vegetarian" /><category term="curry" /><summary type="html"><![CDATA[This hearty Chickpea and Spinach Curry is packed with protein and flavour. A quick and healthy vegetarian option!]]></summary></entry><entry><title type="html">Vegetarian Stir-Fried Noodles</title><link href="http://localhost:4000/recipes/recipes/vegetarian/quick-meals/2024/06/17/vegetarian-stir-fried-noodles.html" rel="alternate" type="text/html" title="Vegetarian Stir-Fried Noodles" /><published>2024-06-17T14:00:00+01:00</published><updated>2024-06-17T14:00:00+01:00</updated><id>http://localhost:4000/recipes/recipes/vegetarian/quick-meals/2024/06/17/vegetarian-stir-fried-noodles</id><content type="html" xml:base="http://localhost:4000/recipes/recipes/vegetarian/quick-meals/2024/06/17/vegetarian-stir-fried-noodles.html"><![CDATA[<p>Looking for a quick and delicious meal? These <strong>Vegetarian Stir-Fried Noodles</strong> are packed with flavour and loaded with fresh veggies!</p>
 
 <h2 id="ingredients">Ingredients:</h2>
 <ul>
