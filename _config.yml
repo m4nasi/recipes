@@ -29,6 +29,15 @@ github_username: m4nasi
 
 # Build settings
 theme: minima
+
+# defaults for posts
+defaults:
+  - scope:
+      path: "_posts"
+      type: "posts"
+    values:
+      layout: "post"
+      categories: "recipes"
 # plugins:
 #   - jekyll-feed
 # Exclude from processing.
