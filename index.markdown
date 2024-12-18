@@ -4,7 +4,11 @@
 
 layout: home
 ---
-
 <head>
     <link rel="icon" href="/assets/images/logo.png" sizes="16x16 32x32" type="image/PNG">
+    <style>
+        .rss-subscribe {
+            display: none;
+        }
+    </style>
 </head>
