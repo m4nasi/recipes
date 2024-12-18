@@ -43,24 +43,69 @@ layout: default
 </style>
 
 <script>
-  // Example: Add Ingredient Export JavaScript
-  document.getElementById('export-btn')?.addEventListener('click', function() {
-    const ingredients = [];
-    const ingredientItems = document.querySelectorAll('.ingredient');
-    ingredientItems.forEach(item => ingredients.push(item.textContent));
-    exportIngredientsAsCSV(ingredients);
-  });
+    document.getElementById('export-btn')?.addEventListener('click', function () {
+      const fileInput = document.getElementById('file-input');
+      if (!fileInput.files.length) {
+        alert('Please select a file containing ingredients and instructions.');
+        return;
+      }
 
-  function exportIngredientsAsCSV(ingredients) {
-    let csvContent = "data:text/csv;charset=utf-8,Ingredient\n";
-    ingredients.forEach(ingredient => csvContent += ingredient + "\n");
-    const encodedUri = encodeURI(csvContent);
-    const link = document.createElement('a');
-    link.setAttribute('href', encodedUri);
-    link.setAttribute('download', 'ingredients.csv');
-    link.click();
-  }
-</script>
+      const file = fileInput.files[0];
+      const reader = new FileReader();
+
+      reader.onload = function (event) {
+        const fileContent = event.target.result;
+        const ingredients = parseIngredientsToInstructions(fileContent);
+        exportAsCSV(ingredients);
+      };
+
+      reader.readAsText(file);
+    });
+
+    // Function to parse everything between "Ingredients" and "Instructions"
+    function parseIngredientsToInstructions(text) {
+      const lines = text.split('\n');
+      const extracted = [];
+      let collecting = false;
+
+      lines.forEach(line => {
+        line = line.trim();
+
+        // Start collecting after "Ingredients"
+        if (line.toLowerCase().includes('ingredients')) {
+          collecting = true;
+          return;
+        }
+
+        // Stop collecting when "Instructions" is encountered
+        if (line.toLowerCase().includes('instructions')) {
+          collecting = false;
+          return;
+        }
+
+        // If collecting, add the line
+        if (collecting && line.startsWith('-')) {
+          extracted.push(line.substring(2).trim()); // Remove "- " prefix
+        }
+      });
+
+      return extracted;
+    }
+
+    // Export the extracted content as CSV
+    function exportAsCSV(ingredients) {
+      let csvContent = "data:text/csv;charset=utf-8,Ingredient\n";
+      ingredients.forEach(item => {
+        csvContent += item + "\n";
+      });
+
+      const encodedUri = encodeURI(csvContent);
+      const link = document.createElement('a');
+      link.setAttribute('href', encodedUri);
+      link.setAttribute('download', 'ingredients.csv');
+      link.click();
+    }
+  </script>
 
   <!-- Back to Recipes Button -->
   <footer>
