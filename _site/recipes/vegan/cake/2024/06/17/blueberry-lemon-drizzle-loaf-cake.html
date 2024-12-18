@@ -37,17 +37,11 @@
 </header>
 <main class="page-content" aria-label="Content">
       <div class="wrapper">
-        <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+        <article>
+  <h1>Blueberry Lemon Drizzle Loaf Cake</h1>
+  <p>June 17, 2024</p>
 
-  <header class="post-header">
-    <h1 class="post-title p-name" itemprop="name headline">Blueberry Lemon Drizzle Loaf Cake</h1>
-    <p class="post-meta">
-      <time class="dt-published" datetime="2024-06-17T16:00:00+01:00" itemprop="datePublished">Jun 17, 2024
-      </time></p>
-  </header>
-
-  <div class="post-content e-content" itemprop="articleBody">
-    <p>This is a blueberry lemon drizzle cake!</p>
+  <p>This is a blueberry lemon drizzle cake!</p>
 
 <h2 id="ingredients">Ingredients:</h2>
 <ul>
@@ -85,8 +79,90 @@
   <li>Wait til completely cooled down and drizzle the lemon drizzle over the cake</li>
 </ol>
 
-  </div><a class="u-url" href="/recipes/recipes/vegan/cake/2024/06/17/blueberry-lemon-drizzle-loaf-cake.html" hidden></a>
+
+  <!-- Related Recipes Section -->
+  <section class="related-recipes">
+    <h3>Related Recipes</h3>
+    <ul>
+      
+        
+      
+        
+          <li><a href="/recipes/vegetarian/dinner/2024/06/17/chole.html">Chole and Paratha</a></li>
+        
+      
+        
+          <li><a href="/recipes/vegetarian/salads/2024/06/17/avocado-tomato-salad.html">Avocado and Tomato Salad</a></li>
+        
+      
+        
+      
+        
+          <li><a href="/recipes/vegetarian/mexican/2024/06/17/burrito-bowl.html">Burrito Bowl</a></li>
+        
+      
+        
+          <li><a href="/recipes/vegetarian/curry/2024/06/17/chickpea-spinach-curry.html">Chickpea and Spinach Curry</a></li>
+        
+      
+        
+          <li><a href="/recipes/vegetarian/quick-meals/2024/06/17/vegetarian-stir-fried-noodles.html">Vegetarian Stir-Fried Noodles</a></li>
+        
+      
+        
+          <li><a href="/recipes/vegetarian/2024/06/17/margerita-pizza.html">Classic Margherita Pizza</a></li>
+        
+      
+    </ul>
+  </section>
+
+  <!-- Optional: Add ingredient export functionality -->
+  <footer>
+    <button id="export-btn" class="export-btn">Export Ingredients</button>
+  </footer>
 </article>
+
+<style>
+  #export-btn {
+  background-color: #4CAF50;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+#export-btn:hover {
+  background-color: #45a049;
+}
+</style>
+
+<script>
+  // Example: Add Ingredient Export JavaScript
+  document.getElementById('export-btn')?.addEventListener('click', function() {
+    const ingredients = [];
+    const ingredientItems = document.querySelectorAll('.ingredient');
+    ingredientItems.forEach(item => ingredients.push(item.textContent));
+    exportIngredientsAsCSV(ingredients);
+  });
+
+  function exportIngredientsAsCSV(ingredients) {
+    let csvContent = "data:text/csv;charset=utf-8,Ingredient\n";
+    ingredients.forEach(ingredient => csvContent += ingredient + "\n");
+    const encodedUri = encodeURI(csvContent);
+    const link = document.createElement('a');
+    link.setAttribute('href', encodedUri);
+    link.setAttribute('download', 'ingredients.csv');
+    link.click();
+  }
+</script>
+
+<br>
+
+  <!-- Back to Recipes Button -->
+  <footer>
+    <a href="/recipes/" class="back-to-recipes">← Back to Recipes</a>
+  </footer>
 
       </div>
     </main><footer class="site-footer h-card">

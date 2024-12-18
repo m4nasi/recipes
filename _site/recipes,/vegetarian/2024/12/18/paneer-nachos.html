@@ -37,17 +37,11 @@
 </header>
 <main class="page-content" aria-label="Content">
       <div class="wrapper">
-        <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+        <article>
+  <h1>Paneer Nachos Recipe</h1>
+  <p>December 18, 2024</p>
 
-  <header class="post-header">
-    <h1 class="post-title p-name" itemprop="name headline">Paneer Nachos Recipe</h1>
-    <p class="post-meta">
-      <time class="dt-published" datetime="2024-12-18T00:00:00+00:00" itemprop="datePublished">Dec 18, 2024
-      </time></p>
-  </header>
-
-  <div class="post-content e-content" itemprop="articleBody">
-    <h2 id="paneer-nachos">Paneer Nachos</h2>
+  <h2 id="paneer-nachos">Paneer Nachos</h2>
 
 <p>These <strong>Paneer Nachos</strong> are a delicious vegetarian twist on the classic nachos, topped with crispy paneer cubes, veggies, and melted cheese. A perfect snack or appetizer for any occasion!</p>
 
@@ -118,8 +112,92 @@
 
 <p>Enjoy your <strong>Paneer Nachos</strong> as a fun and tasty snack with a fusion of Indian and Tex-Mex flavors!</p>
 
-  </div><a class="u-url" href="/recipes/recipes,/vegetarian/2024/12/18/paneer-nachos.html" hidden></a>
+
+  <!-- Related Recipes Section -->
+  <section class="related-recipes">
+    <h3>Related Recipes</h3>
+    <ul>
+      
+        
+      
+        
+          <li><a href="/recipes/vegetarian/dinner/2024/06/17/chole.html">Chole and Paratha</a></li>
+        
+      
+        
+          <li><a href="/recipes/vegetarian/salads/2024/06/17/avocado-tomato-salad.html">Avocado and Tomato Salad</a></li>
+        
+      
+        
+          <li><a href="/recipes/vegan/cake/2024/06/17/blueberry-lemon-drizzle-loaf-cake.html">Blueberry Lemon Drizzle Loaf Cake</a></li>
+        
+      
+        
+          <li><a href="/recipes/vegetarian/mexican/2024/06/17/burrito-bowl.html">Burrito Bowl</a></li>
+        
+      
+        
+          <li><a href="/recipes/vegetarian/curry/2024/06/17/chickpea-spinach-curry.html">Chickpea and Spinach Curry</a></li>
+        
+      
+        
+          <li><a href="/recipes/vegetarian/quick-meals/2024/06/17/vegetarian-stir-fried-noodles.html">Vegetarian Stir-Fried Noodles</a></li>
+        
+      
+        
+          <li><a href="/recipes/vegetarian/2024/06/17/margerita-pizza.html">Classic Margherita Pizza</a></li>
+        
+      
+    </ul>
+  </section>
+
+  <!-- Optional: Add ingredient export functionality -->
+  <footer>
+    <button id="export-btn" class="export-btn">Export Ingredients</button>
+  </footer>
 </article>
+
+<style>
+  #export-btn {
+  background-color: #4CAF50;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+#export-btn:hover {
+  background-color: #45a049;
+}
+</style>
+
+<script>
+  // Example: Add Ingredient Export JavaScript
+  document.getElementById('export-btn')?.addEventListener('click', function() {
+    const ingredients = [];
+    const ingredientItems = document.querySelectorAll('.ingredient');
+    ingredientItems.forEach(item => ingredients.push(item.textContent));
+    exportIngredientsAsCSV(ingredients);
+  });
+
+  function exportIngredientsAsCSV(ingredients) {
+    let csvContent = "data:text/csv;charset=utf-8,Ingredient\n";
+    ingredients.forEach(ingredient => csvContent += ingredient + "\n");
+    const encodedUri = encodeURI(csvContent);
+    const link = document.createElement('a');
+    link.setAttribute('href', encodedUri);
+    link.setAttribute('download', 'ingredients.csv');
+    link.click();
+  }
+</script>
+
+<br>
+
+  <!-- Back to Recipes Button -->
+  <footer>
+    <a href="/recipes/" class="back-to-recipes">← Back to Recipes</a>
+  </footer>
 
       </div>
     </main><footer class="site-footer h-card">

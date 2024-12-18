@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/recipes/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/recipes/" rel="alternate" type="text/html" /><updated>2024-12-18T14:30:25+00:00</updated><id>http://localhost:4000/recipes/feed.xml</id><title type="html">Recipe Website</title><subtitle>A website to display recipes in one location.</subtitle><entry><title type="html">Paneer Nachos Recipe</title><link href="http://localhost:4000/recipes/recipes,/vegetarian/2024/12/18/paneer-nachos.html" rel="alternate" type="text/html" title="Paneer Nachos Recipe" /><published>2024-12-18T00:00:00+00:00</published><updated>2024-12-18T00:00:00+00:00</updated><id>http://localhost:4000/recipes/recipes,/vegetarian/2024/12/18/paneer-nachos</id><content type="html" xml:base="http://localhost:4000/recipes/recipes,/vegetarian/2024/12/18/paneer-nachos.html"><![CDATA[<h2 id="paneer-nachos">Paneer Nachos</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/recipes/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/recipes/" rel="alternate" type="text/html" /><updated>2024-12-18T16:34:32+00:00</updated><id>http://localhost:4000/recipes/feed.xml</id><title type="html">Recipe Website</title><subtitle>A website to display recipes in one location.</subtitle><entry><title type="html">Paneer Nachos Recipe</title><link href="http://localhost:4000/recipes/recipes,/vegetarian/2024/12/18/paneer-nachos.html" rel="alternate" type="text/html" title="Paneer Nachos Recipe" /><published>2024-12-18T00:00:00+00:00</published><updated>2024-12-18T00:00:00+00:00</updated><id>http://localhost:4000/recipes/recipes,/vegetarian/2024/12/18/paneer-nachos</id><content type="html" xml:base="http://localhost:4000/recipes/recipes,/vegetarian/2024/12/18/paneer-nachos.html"><![CDATA[<h2 id="paneer-nachos">Paneer Nachos</h2>
 
 <p>These <strong>Paneer Nachos</strong> are a delicious vegetarian twist on the classic nachos, topped with crispy paneer cubes, veggies, and melted cheese. A perfect snack or appetizer for any occasion!</p>
 
@@ -129,7 +129,37 @@ Final Touches:</li>
   <li>Toss gently to mix, garnish with fresh basil, and serve immediately.</li>
 </ol>
 
-<p>Perfect as a side dish or a light lunch!</p>]]></content><author><name></name></author><category term="recipes" /><category term="vegetarian" /><category term="salads" /><summary type="html"><![CDATA[This refreshing Avocado and Tomato Salad is packed with flavour and nutrients. A light and healthy option for any meal.]]></summary></entry><entry><title type="html">Chickpea and Spinach Curry</title><link href="http://localhost:4000/recipes/recipes/vegetarian/curry/2024/06/17/chickpea-spinach-curry.html" rel="alternate" type="text/html" title="Chickpea and Spinach Curry" /><published>2024-06-17T16:00:00+01:00</published><updated>2024-06-17T16:00:00+01:00</updated><id>http://localhost:4000/recipes/recipes/vegetarian/curry/2024/06/17/chickpea-spinach-curry</id><content type="html" xml:base="http://localhost:4000/recipes/recipes/vegetarian/curry/2024/06/17/chickpea-spinach-curry.html"><![CDATA[<p>This hearty <strong>Chickpea and Spinach Curry</strong> is packed with protein and flavour. A quick and healthy vegetarian option!</p>
+<p>Perfect as a side dish or a light lunch!</p>
+
+<p><button id="export-btn">Export Ingredients</button></p>
+
+<script>
+    document.getElementById('export-btn').addEventListener('click', function() {
+  const ingredients = [];
+  const ingredientItems = document.querySelectorAll('#ingredient-list li');
+  
+  ingredientItems.forEach(function(item) {
+    ingredients.push(item.textContent);
+  });
+
+  // Export the ingredients as a CSV, JSON, or Text file
+  exportIngredientsAsCSV(ingredients);  // Or use exportIngredientsAsJSON or exportIngredientsAsText
+});
+
+// Export as CSV
+function exportIngredientsAsCSV(ingredients) {
+  let csvContent = "data:text/csv;charset=utf-8,Ingredient\n";  // CSV header
+  ingredients.forEach(function(ingredient) {
+    csvContent += ingredient + "\n";
+  });
+
+  const encodedUri = encodeURI(csvContent);
+  const link = document.createElement('a');
+  link.setAttribute('href', encodedUri);
+  link.setAttribute('download', 'ingredients.csv');
+  link.click();
+}
+</script>]]></content><author><name></name></author><category term="recipes" /><category term="vegetarian" /><category term="salads" /><summary type="html"><![CDATA[This refreshing Avocado and Tomato Salad is packed with flavour and nutrients. A light and healthy option for any meal.]]></summary></entry><entry><title type="html">Chickpea and Spinach Curry</title><link href="http://localhost:4000/recipes/recipes/vegetarian/curry/2024/06/17/chickpea-spinach-curry.html" rel="alternate" type="text/html" title="Chickpea and Spinach Curry" /><published>2024-06-17T16:00:00+01:00</published><updated>2024-06-17T16:00:00+01:00</updated><id>http://localhost:4000/recipes/recipes/vegetarian/curry/2024/06/17/chickpea-spinach-curry</id><content type="html" xml:base="http://localhost:4000/recipes/recipes/vegetarian/curry/2024/06/17/chickpea-spinach-curry.html"><![CDATA[<p>This hearty <strong>Chickpea and Spinach Curry</strong> is packed with protein and flavour. A quick and healthy vegetarian option!</p>
 
 <h2 id="ingredients">Ingredients:</h2>
 <ul>

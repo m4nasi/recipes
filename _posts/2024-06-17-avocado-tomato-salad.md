@@ -23,3 +23,33 @@ This refreshing **Avocado and Tomato Salad** is packed with flavour and nutrient
 4. Toss gently to mix, garnish with fresh basil, and serve immediately.
 
 Perfect as a side dish or a light lunch!
+
+<button id="export-btn">Export Ingredients</button>
+
+<script>
+    document.getElementById('export-btn').addEventListener('click', function() {
+  const ingredients = [];
+  const ingredientItems = document.querySelectorAll('#ingredient-list li');
+  
+  ingredientItems.forEach(function(item) {
+    ingredients.push(item.textContent);
+  });
+
+  // Export the ingredients as a CSV, JSON, or Text file
+  exportIngredientsAsCSV(ingredients);  // Or use exportIngredientsAsJSON or exportIngredientsAsText
+});
+
+// Export as CSV
+function exportIngredientsAsCSV(ingredients) {
+  let csvContent = "data:text/csv;charset=utf-8,Ingredient\n";  // CSV header
+  ingredients.forEach(function(ingredient) {
+    csvContent += ingredient + "\n";
+  });
+
+  const encodedUri = encodeURI(csvContent);
+  const link = document.createElement('a');
+  link.setAttribute('href', encodedUri);
+  link.setAttribute('download', 'ingredients.csv');
+  link.click();
+}
+</script>
