@@ -1,4 +1,114 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/recipes/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/recipes/" rel="alternate" type="text/html" /><updated>2024-12-18T13:25:12+00:00</updated><id>http://localhost:4000/recipes/feed.xml</id><title type="html">Recipe Website</title><subtitle>A website to display recipes in one location.</subtitle><entry><title type="html">Avocado and Tomato Salad</title><link href="http://localhost:4000/recipes/recipes/vegetarian/salads/2024/06/17/avocado-tomato-salad.html" rel="alternate" type="text/html" title="Avocado and Tomato Salad" /><published>2024-06-17T17:00:00+01:00</published><updated>2024-06-17T17:00:00+01:00</updated><id>http://localhost:4000/recipes/recipes/vegetarian/salads/2024/06/17/avocado-tomato-salad</id><content type="html" xml:base="http://localhost:4000/recipes/recipes/vegetarian/salads/2024/06/17/avocado-tomato-salad.html"><![CDATA[<p>This refreshing <strong>Avocado and Tomato Salad</strong> is packed with flavour and nutrients. A light and healthy option for any meal.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/recipes/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/recipes/" rel="alternate" type="text/html" /><updated>2024-12-18T13:32:06+00:00</updated><id>http://localhost:4000/recipes/feed.xml</id><title type="html">Recipe Website</title><subtitle>A website to display recipes in one location.</subtitle><entry><title type="html">Paneer Nachos Recipe</title><link href="http://localhost:4000/recipes/recipes,/vegetarian/2024/12/18/paneer-nachos.html" rel="alternate" type="text/html" title="Paneer Nachos Recipe" /><published>2024-12-18T00:00:00+00:00</published><updated>2024-12-18T00:00:00+00:00</updated><id>http://localhost:4000/recipes/recipes,/vegetarian/2024/12/18/paneer-nachos</id><content type="html" xml:base="http://localhost:4000/recipes/recipes,/vegetarian/2024/12/18/paneer-nachos.html"><![CDATA[<h2 id="paneer-nachos">Paneer Nachos</h2>
+
+<p>These <strong>Paneer Nachos</strong> are a delicious vegetarian twist on the classic nachos, topped with crispy paneer cubes, veggies, and melted cheese. A perfect snack or appetizer for any occasion!</p>
+
+<h3 id="ingredients">Ingredients</h3>
+
+<h4 id="for-the-nachos">For the Nachos:</h4>
+<ul>
+  <li>200g paneer, cubed</li>
+  <li>1 pack tortilla chips (store-bought or homemade)</li>
+  <li>1 cup shredded cheese (cheddar or a mix of mozzarella and cheddar)</li>
+  <li>1 small onion, finely chopped</li>
+  <li>1 tomato, finely chopped</li>
+  <li>1/2 cup sweet corn (optional)</li>
+  <li>1/2 tsp cumin powder</li>
+  <li>1/2 tsp paprika or chili powder</li>
+  <li>Salt to taste</li>
+  <li>Fresh cilantro, chopped (for garnish)</li>
+  <li>2 tbsp vegetable oil</li>
+</ul>
+
+<h4 id="for-the-sauce">For the Sauce:</h4>
+<ul>
+  <li>1/2 cup sour cream or yogurt</li>
+  <li>1 tbsp mayonnaise</li>
+  <li>1 tsp lemon juice</li>
+  <li>1/2 tsp garlic powder</li>
+  <li>Salt to taste</li>
+</ul>
+
+<h3 id="instructions">Instructions</h3>
+
+<ol>
+  <li><strong>Prepare the Paneer:</strong>
+    <ul>
+      <li>Heat oil in a pan and sauté the cubed paneer until golden brown and crispy. Set aside.</li>
+    </ul>
+  </li>
+  <li><strong>Make the Sauce:</strong>
+    <ul>
+      <li>In a small bowl, mix together sour cream or yogurt, mayonnaise, lemon juice, garlic powder, and a pinch of salt. Set aside.</li>
+    </ul>
+  </li>
+  <li><strong>Assemble the Nachos:</strong>
+    <ul>
+      <li>On a large baking tray, spread out the tortilla chips evenly.</li>
+      <li>Top with sautéed paneer, chopped onions, tomatoes, sweet corn (if using), and a generous sprinkle of cumin powder and paprika.</li>
+    </ul>
+  </li>
+  <li><strong>Add Cheese:</strong>
+    <ul>
+      <li>Sprinkle the shredded cheese evenly over the nachos.</li>
+    </ul>
+  </li>
+  <li><strong>Bake or Broil:</strong>
+    <ul>
+      <li>Preheat your oven to 375°F (190°C). Bake for 10-15 minutes or broil for 5-7 minutes until the cheese is melted and bubbly.</li>
+    </ul>
+  </li>
+  <li><strong>Garnish:</strong>
+    <ul>
+      <li>Once out of the oven, drizzle the prepared sauce over the nachos.</li>
+      <li>Garnish with fresh cilantro and serve immediately.</li>
+    </ul>
+  </li>
+</ol>
+
+<hr />
+
+<p>Enjoy your <strong>Paneer Nachos</strong> as a fun and tasty snack with a fusion of Indian and Tex-Mex flavors!</p>]]></content><author><name></name></author><category term="recipes," /><category term="vegetarian" /><category term="paneer" /><category term="nachos" /><category term="snacks" /><summary type="html"><![CDATA[Paneer Nachos]]></summary></entry><entry><title type="html">Chole and Paratha</title><link href="http://localhost:4000/recipes/recipes/vegetarian/dinner/2024/06/17/chole.html" rel="alternate" type="text/html" title="Chole and Paratha" /><published>2024-06-17T17:00:00+01:00</published><updated>2024-06-17T17:00:00+01:00</updated><id>http://localhost:4000/recipes/recipes/vegetarian/dinner/2024/06/17/chole</id><content type="html" xml:base="http://localhost:4000/recipes/recipes/vegetarian/dinner/2024/06/17/chole.html"><![CDATA[<p>Vegetarian Chole (Chickpea Curry)</p>
+
+<h2 id="ingredients">Ingredients:</h2>
+<ul>
+  <li>2 cups dried chickpeas</li>
+  <li>1 large onion, finely chopped</li>
+  <li>2 tomatoes, pureed</li>
+  <li>2 green chilies, chopped</li>
+  <li>1-inch piece of ginger, grated</li>
+  <li>3 cloves garlic, minced</li>
+  <li>2 tbsp vegetable oil</li>
+  <li>1 tsp cumin seeds</li>
+  <li>1 bay leaf</li>
+  <li>1 tsp coriander powder</li>
+  <li>1 tsp cumin powder</li>
+  <li>1 tsp turmeric powder</li>
+  <li>1/2 tsp red chili powder (adjust to taste)</li>
+  <li>1/2 tsp lemon juice</li>
+  <li>Salt to taste</li>
+  <li>Fresh coriander leaves for garnish</li>
+  <li>4 cups water (for cooking chickpeas)</li>
+  <li>1/2 tsp baking soda (if using dried chickpeas)</li>
+</ul>
+
+<h2 id="instructions">Instructions:</h2>
+<p>Prepare Chickpeas:</p>
+<ol>
+  <li>If using dried chickpeas, soak them overnight in water. The next day, rinse them and cook in a pressure cooker with 4 cups of water, a pinch of baking soda, and a bit of salt for about 30-40 minutes, or until soft.</li>
+  <li>If using canned chickpeas, simply rinse and drain them.
+Cook the Spices:</li>
+  <li>Heat oil in a large pan over medium heat. Add cumin seeds and bay leaf, and let them splutter.</li>
+  <li>Add chopped onions and sauté until golden brown.</li>
+  <li>Add grated ginger, minced garlic, and chopped green chilies. Cook for 2 minutes.
+Make the Gravy:</li>
+  <li>Add pureed tomatoes to the pan, along with coriander powder, cumin powder, turmeric powder, garam masala, red chili powder, and salt.</li>
+  <li>Stir well and cook the mixture until the oil separates from the masala (about 5 minutes).
+Add Chickpeas:</li>
+  <li>Add the cooked chickpeas to the pan along with a cup of water (or more, depending on the consistency you prefer). Stir everything together, and let it simmer for 15-20 minutes.
+Final Touches:</li>
+  <li>Adjust the seasoning with amchur or lemon juice to add tanginess.</li>
+  <li>Garnish with fresh coriander leaves and serve hot with rice, naan, or roti.</li>
+</ol>]]></content><author><name></name></author><category term="recipes" /><category term="vegetarian" /><category term="dinner" /><summary type="html"><![CDATA[Vegetarian Chole (Chickpea Curry)]]></summary></entry><entry><title type="html">Avocado and Tomato Salad</title><link href="http://localhost:4000/recipes/recipes/vegetarian/salads/2024/06/17/avocado-tomato-salad.html" rel="alternate" type="text/html" title="Avocado and Tomato Salad" /><published>2024-06-17T17:00:00+01:00</published><updated>2024-06-17T17:00:00+01:00</updated><id>http://localhost:4000/recipes/recipes/vegetarian/salads/2024/06/17/avocado-tomato-salad</id><content type="html" xml:base="http://localhost:4000/recipes/recipes/vegetarian/salads/2024/06/17/avocado-tomato-salad.html"><![CDATA[<p>This refreshing <strong>Avocado and Tomato Salad</strong> is packed with flavour and nutrients. A light and healthy option for any meal.</p>
 
 <h2 id="ingredients">Ingredients:</h2>
 <ul>
@@ -19,7 +129,64 @@
   <li>Toss gently to mix, garnish with fresh basil, and serve immediately.</li>
 </ol>
 
-<p>Perfect as a side dish or a light lunch!</p>]]></content><author><name></name></author><category term="recipes" /><category term="vegetarian" /><category term="salads" /><summary type="html"><![CDATA[This refreshing Avocado and Tomato Salad is packed with flavour and nutrients. A light and healthy option for any meal.]]></summary></entry><entry><title type="html">Blueberry Lemon Drizzle Loaf Cake</title><link href="http://localhost:4000/recipes/recipes/vegan/cake/2024/06/17/blueberry-lemon-drizzle-loaf-cake.html" rel="alternate" type="text/html" title="Blueberry Lemon Drizzle Loaf Cake" /><published>2024-06-17T16:00:00+01:00</published><updated>2024-06-17T16:00:00+01:00</updated><id>http://localhost:4000/recipes/recipes/vegan/cake/2024/06/17/blueberry-lemon-drizzle-loaf-cake</id><content type="html" xml:base="http://localhost:4000/recipes/recipes/vegan/cake/2024/06/17/blueberry-lemon-drizzle-loaf-cake.html"><![CDATA[<p>This is a blueberry lemon drizzle cake!</p>
+<p>Perfect as a side dish or a light lunch!</p>]]></content><author><name></name></author><category term="recipes" /><category term="vegetarian" /><category term="salads" /><summary type="html"><![CDATA[This refreshing Avocado and Tomato Salad is packed with flavour and nutrients. A light and healthy option for any meal.]]></summary></entry><entry><title type="html">Chickpea and Spinach Curry</title><link href="http://localhost:4000/recipes/recipes/vegetarian/curry/2024/06/17/chickpea-spinach-curry.html" rel="alternate" type="text/html" title="Chickpea and Spinach Curry" /><published>2024-06-17T16:00:00+01:00</published><updated>2024-06-17T16:00:00+01:00</updated><id>http://localhost:4000/recipes/recipes/vegetarian/curry/2024/06/17/chickpea-spinach-curry</id><content type="html" xml:base="http://localhost:4000/recipes/recipes/vegetarian/curry/2024/06/17/chickpea-spinach-curry.html"><![CDATA[<p>This hearty <strong>Chickpea and Spinach Curry</strong> is packed with protein and flavour. A quick and healthy vegetarian option!</p>
+
+<h2 id="ingredients">Ingredients:</h2>
+<ul>
+  <li>1 can (400g) chickpeas, drained and rinsed</li>
+  <li>2 cups fresh spinach</li>
+  <li>1 onion, finely chopped</li>
+  <li>2 cloves garlic, minced</li>
+  <li>1 tsp grated ginger</li>
+  <li>1 can (400ml) coconut milk</li>
+  <li>1 tbsp curry powder</li>
+  <li>1 tsp turmeric powder</li>
+  <li>2 tbsp olive oil</li>
+  <li>Salt to taste</li>
+</ul>
+
+<h2 id="instructions">Instructions:</h2>
+<ol>
+  <li>Heat olive oil in a large pan over medium heat.</li>
+  <li>Add chopped onion, garlic, and ginger, and sauté until soft.</li>
+  <li>Stir in curry powder and turmeric, and cook for 1 minute.</li>
+  <li>Add chickpeas and coconut milk. Simmer for 10 minutes.</li>
+  <li>Toss in the fresh spinach and cook until wilted.</li>
+  <li>Season with salt and serve with rice or naan bread.</li>
+</ol>
+
+<p>This curry is simple, nutritious, and perfect for meal prep!</p>]]></content><author><name></name></author><category term="recipes" /><category term="vegetarian" /><category term="curry" /><summary type="html"><![CDATA[This hearty Chickpea and Spinach Curry is packed with protein and flavour. A quick and healthy vegetarian option!]]></summary></entry><entry><title type="html">Burrito Bowl</title><link href="http://localhost:4000/recipes/recipes/vegetarian/mexican/2024/06/17/burrito-bowl.html" rel="alternate" type="text/html" title="Burrito Bowl" /><published>2024-06-17T16:00:00+01:00</published><updated>2024-06-17T16:00:00+01:00</updated><id>http://localhost:4000/recipes/recipes/vegetarian/mexican/2024/06/17/burrito-bowl</id><content type="html" xml:base="http://localhost:4000/recipes/recipes/vegetarian/mexican/2024/06/17/burrito-bowl.html"><![CDATA[<p>This is a Burrito bowl.</p>
+
+<h2 id="ingredients">Ingredients</h2>
+<ul>
+  <li>2 handfuls of black beans</li>
+  <li>2 sweet peppers</li>
+  <li>Handfull of cheese</li>
+  <li>Fajita mix</li>
+  <li>Sweetcorn</li>
+  <li>Rice</li>
+  <li>Tomato Rice Powder</li>
+  <li>Yogurt</li>
+  <li>Mint</li>
+  <li>Olive oil</li>
+  <li>Onion</li>
+  <li>Tomato</li>
+  <li>Wraps</li>
+</ul>
+
+<h2 id="instructions">Instructions:</h2>
+<ol>
+  <li>Soak the black beans</li>
+  <li>Pressure cook the black beans</li>
+  <li>Boil the rice and drain</li>
+  <li>Mix Onion, Tomatoes and Tomato powder</li>
+  <li>Boil the corn</li>
+  <li>Mix cheese into the corn</li>
+  <li>Saulte the peppers and mix the fajita mix</li>
+  <li>Cook the black beans and mix in the fajita mix</li>
+  <li>Heat up the wraps so warm</li>
+  <li>Wrap burrito filling into wrap</li>
+</ol>]]></content><author><name></name></author><category term="recipes" /><category term="vegetarian" /><category term="mexican" /><summary type="html"><![CDATA[This is a Burrito bowl.]]></summary></entry><entry><title type="html">Blueberry Lemon Drizzle Loaf Cake</title><link href="http://localhost:4000/recipes/recipes/vegan/cake/2024/06/17/blueberry-lemon-drizzle-loaf-cake.html" rel="alternate" type="text/html" title="Blueberry Lemon Drizzle Loaf Cake" /><published>2024-06-17T16:00:00+01:00</published><updated>2024-06-17T16:00:00+01:00</updated><id>http://localhost:4000/recipes/recipes/vegan/cake/2024/06/17/blueberry-lemon-drizzle-loaf-cake</id><content type="html" xml:base="http://localhost:4000/recipes/recipes/vegan/cake/2024/06/17/blueberry-lemon-drizzle-loaf-cake.html"><![CDATA[<p>This is a blueberry lemon drizzle cake!</p>
 
 <h2 id="ingredients">Ingredients:</h2>
 <ul>
@@ -55,64 +222,7 @@
   <li>Bake for 20/25 mins (until the knife is clean)</li>
   <li>Mix the refined sugar with lemon juice</li>
   <li>Wait til completely cooled down and drizzle the lemon drizzle over the cake</li>
-</ol>]]></content><author><name></name></author><category term="recipes" /><category term="vegan" /><category term="cake" /><summary type="html"><![CDATA[This is a blueberry lemon drizzle cake!]]></summary></entry><entry><title type="html">Burrito Bowl</title><link href="http://localhost:4000/recipes/recipes/vegetarian/mexican/2024/06/17/burrito-bowl.html" rel="alternate" type="text/html" title="Burrito Bowl" /><published>2024-06-17T16:00:00+01:00</published><updated>2024-06-17T16:00:00+01:00</updated><id>http://localhost:4000/recipes/recipes/vegetarian/mexican/2024/06/17/burrito-bowl</id><content type="html" xml:base="http://localhost:4000/recipes/recipes/vegetarian/mexican/2024/06/17/burrito-bowl.html"><![CDATA[<p>This is a Burrito bowl.</p>
-
-<h2 id="ingredients">Ingredients</h2>
-<ul>
-  <li>2 handfuls of black beans</li>
-  <li>2 sweet peppers</li>
-  <li>Handfull of cheese</li>
-  <li>Fajita mix</li>
-  <li>Sweetcorn</li>
-  <li>Rice</li>
-  <li>Tomato Rice Powder</li>
-  <li>Yogurt</li>
-  <li>Mint</li>
-  <li>Olive oil</li>
-  <li>Onion</li>
-  <li>Tomato</li>
-  <li>Wraps</li>
-</ul>
-
-<h2 id="instructions">Instructions:</h2>
-<ol>
-  <li>Soak the black beans</li>
-  <li>Pressure cook the black beans</li>
-  <li>Boil the rice and drain</li>
-  <li>Mix Onion, Tomatoes and Tomato powder</li>
-  <li>Boil the corn</li>
-  <li>Mix cheese into the corn</li>
-  <li>Saulte the peppers and mix the fajita mix</li>
-  <li>Cook the black beans and mix in the fajita mix</li>
-  <li>Heat up the wraps so warm</li>
-  <li>Wrap burrito filling into wrap</li>
-</ol>]]></content><author><name></name></author><category term="recipes" /><category term="vegetarian" /><category term="mexican" /><summary type="html"><![CDATA[This is a Burrito bowl.]]></summary></entry><entry><title type="html">Chickpea and Spinach Curry</title><link href="http://localhost:4000/recipes/recipes/vegetarian/curry/2024/06/17/chickpea-spinach-curry.html" rel="alternate" type="text/html" title="Chickpea and Spinach Curry" /><published>2024-06-17T16:00:00+01:00</published><updated>2024-06-17T16:00:00+01:00</updated><id>http://localhost:4000/recipes/recipes/vegetarian/curry/2024/06/17/chickpea-spinach-curry</id><content type="html" xml:base="http://localhost:4000/recipes/recipes/vegetarian/curry/2024/06/17/chickpea-spinach-curry.html"><![CDATA[<p>This hearty <strong>Chickpea and Spinach Curry</strong> is packed with protein and flavour. A quick and healthy vegetarian option!</p>
-
-<h2 id="ingredients">Ingredients:</h2>
-<ul>
-  <li>1 can (400g) chickpeas, drained and rinsed</li>
-  <li>2 cups fresh spinach</li>
-  <li>1 onion, finely chopped</li>
-  <li>2 cloves garlic, minced</li>
-  <li>1 tsp grated ginger</li>
-  <li>1 can (400ml) coconut milk</li>
-  <li>1 tbsp curry powder</li>
-  <li>1 tsp turmeric powder</li>
-  <li>2 tbsp olive oil</li>
-  <li>Salt to taste</li>
-</ul>
-
-<h2 id="instructions">Instructions:</h2>
-<ol>
-  <li>Heat olive oil in a large pan over medium heat.</li>
-  <li>Add chopped onion, garlic, and ginger, and sauté until soft.</li>
-  <li>Stir in curry powder and turmeric, and cook for 1 minute.</li>
-  <li>Add chickpeas and coconut milk. Simmer for 10 minutes.</li>
-  <li>Toss in the fresh spinach and cook until wilted.</li>
-  <li>Season with salt and serve with rice or naan bread.</li>
-</ol>
-
-<p>This curry is simple, nutritious, and perfect for meal prep!</p>]]></content><author><name></name></author><category term="recipes" /><category term="vegetarian" /><category term="curry" /><summary type="html"><![CDATA[This hearty Chickpea and Spinach Curry is packed with protein and flavour. A quick and healthy vegetarian option!]]></summary></entry><entry><title type="html">Vegetarian Stir-Fried Noodles</title><link href="http://localhost:4000/recipes/recipes/vegetarian/quick-meals/2024/06/17/vegetarian-stir-fried-noodles.html" rel="alternate" type="text/html" title="Vegetarian Stir-Fried Noodles" /><published>2024-06-17T14:00:00+01:00</published><updated>2024-06-17T14:00:00+01:00</updated><id>http://localhost:4000/recipes/recipes/vegetarian/quick-meals/2024/06/17/vegetarian-stir-fried-noodles</id><content type="html" xml:base="http://localhost:4000/recipes/recipes/vegetarian/quick-meals/2024/06/17/vegetarian-stir-fried-noodles.html"><![CDATA[<p>Looking for a quick and delicious meal? These <strong>Vegetarian Stir-Fried Noodles</strong> are packed with flavour and loaded with fresh veggies!</p>
+</ol>]]></content><author><name></name></author><category term="recipes" /><category term="vegan" /><category term="cake" /><summary type="html"><![CDATA[This is a blueberry lemon drizzle cake!]]></summary></entry><entry><title type="html">Vegetarian Stir-Fried Noodles</title><link href="http://localhost:4000/recipes/recipes/vegetarian/quick-meals/2024/06/17/vegetarian-stir-fried-noodles.html" rel="alternate" type="text/html" title="Vegetarian Stir-Fried Noodles" /><published>2024-06-17T14:00:00+01:00</published><updated>2024-06-17T14:00:00+01:00</updated><id>http://localhost:4000/recipes/recipes/vegetarian/quick-meals/2024/06/17/vegetarian-stir-fried-noodles</id><content type="html" xml:base="http://localhost:4000/recipes/recipes/vegetarian/quick-meals/2024/06/17/vegetarian-stir-fried-noodles.html"><![CDATA[<p>Looking for a quick and delicious meal? These <strong>Vegetarian Stir-Fried Noodles</strong> are packed with flavour and loaded with fresh veggies!</p>
 
 <h2 id="ingredients">Ingredients:</h2>
 <ul>
