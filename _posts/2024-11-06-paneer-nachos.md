@@ -13,17 +13,19 @@ These **Paneer Nachos** are a delicious vegetarian twist on the classic nachos, 
 ### Ingredients
 
 #### For the Nachos:
-- 200g paneer, cubed
-- 1 pack tortilla chips (store-bought or homemade)
-- 1 cup shredded cheese (cheddar or a mix of mozzarella and cheddar)
-- 1 small onion, finely chopped
-- 1 tomato, finely chopped
-- 1/2 cup sweet corn (optional)
-- 1/2 tsp cumin powder
-- 1/2 tsp paprika or chili powder
-- Salt to taste
-- Fresh cilantro, chopped (for garnish)
-- 2 tbsp vegetable oil
+<ul class="ingredients-list">
+   <li class="ingredient">200g paneer, cubed</li>
+   <li class="ingredient">1 pack tortilla chips (store-bought or homemade)</li>
+   <li class="ingredient">1 cup shredded cheese (cheddar or a mix of mozzarella and cheddar)</li>
+   <li class="ingredient">1 small onion, finely chopped</li>
+   <li class="ingredient">1 tomato, finely chopped</li>
+   <li class="ingredient">1/2 cup sweet corn (optional)</li>
+   <li class="ingredient">1/2 tsp cumin powder</li>
+   <li class="ingredient">1/2 tsp paprika or chili powder</li>
+   <li class="ingredient">Salt to taste</li>
+   <li class="ingredient">Fresh cilantro, chopped (for garnish)</li>
+   <li class="ingredient">2 tbsp vegetable oil</li>
+</ul>
 
 #### For the Sauce:
 - 1/2 cup sour cream or yogurt

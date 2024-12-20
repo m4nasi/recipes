@@ -8,16 +8,18 @@ categories: recipes vegan cake
 This is a blueberry lemon drizzle cake!
 
 ## Ingredients:
-- 1 cup melted butter
-- 1/2 cup yogurt 
-- 1 1/2 cup maida/flour
-- 1/2 cup custard powder
-- 1 tbsp vanilla extract liquid
-- 20 blueberries coated in flour
-- 2 tbsp baking soda
-- 1 tsp bicarbonate soda
-- 1 tbsp sunflower oil 
-- 2 tbsp lemon zest
+<ul class="ingredients-list">
+<li class="ingredient">1 cup melted butter</li>
+<li class="ingredient">1/2 cup yogurt </li>
+<li class="ingredient">1 1/2 cup maida/flour</li>
+<li class="ingredient">1/2 cup custard powder</li>
+<li class="ingredient">1 tbsp vanilla extract liquid</li>
+<li class="ingredient">20 blueberries coated in flour</li>
+<li class="ingredient">2 tbsp baking soda</li>
+<li class="ingredient">1 tsp bicarbonate soda</li>
+<li class="ingredient">1 tbsp sunflower oil </li>
+<li class="ingredient">2 tbsp lemon zest</li>
+</ul>
 
 # Drizzle:
 - 2/3 refined sugar 

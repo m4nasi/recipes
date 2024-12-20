@@ -43,8 +43,7 @@ layout: default
 </style>
 
 <script>
-  // Example: Add Ingredient Export JavaScript
-  document.getElementById('export-btn')?.addEventListener('click', function() {
+  document.getElementById('export-btn').addEventListener('click', function() {
     const ingredients = [];
     const ingredientItems = document.querySelectorAll('.ingredient');
     ingredientItems.forEach(item => ingredients.push(item.textContent));

@@ -44,14 +44,14 @@
   <p>This refreshing <strong>Avocado and Tomato Salad</strong> is packed with flavour and nutrients. A light and healthy option for any meal.</p>
 
 <h2 id="ingredients">Ingredients:</h2>
-<ul>
-  <li>2 ripe avocados, diced</li>
-  <li>2 large tomatoes, chopped</li>
-  <li>1/2 red onion, thinly sliced</li>
-  <li>1 tbsp olive oil</li>
-  <li>1 tbsp lemon juice</li>
-  <li>Salt and pepper to taste</li>
-  <li>Fresh basil leaves for garnish</li>
+<ul class="ingredients-list">
+<li class="ingredient">2 ripe avocados, diced</li>
+<li class="ingredient">2 large tomatoes, chopped</li>
+<li class="ingredient">1/2 red onion, thinly sliced</li>
+<li class="ingredient">1 tbsp olive oil</li>
+<li class="ingredient">1 tbsp lemon juice</li>
+<li class="ingredient">Salt and pepper to taste</li>
+<li class="ingredient">Fresh basil leaves for garnish</li>
 </ul>
 
 <h2 id="instructions">Instructions:</h2>
@@ -101,6 +101,8 @@ function exportIngredientsAsCSV(ingredients) {
     <h3>Related Recipes</h3>
     <ul>
       
+        
+          <li><a href="/recipes/recipes,/vegetarian/2024/12/18/paneer-nachos.html">Paneer Nachos Recipe</a></li>
         
       
         
@@ -155,8 +157,7 @@ function exportIngredientsAsCSV(ingredients) {
 </style>
 
 <script>
-  // Example: Add Ingredient Export JavaScript
-  document.getElementById('export-btn')?.addEventListener('click', function() {
+  document.getElementById('export-btn').addEventListener('click', function() {
     const ingredients = [];
     const ingredientItems = document.querySelectorAll('.ingredient');
     ingredientItems.forEach(item => ingredients.push(item.textContent));
@@ -190,7 +191,7 @@ function exportIngredientsAsCSV(ingredients) {
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
-          <li class="p-name">Recipe Website</li><li><a class="u-email" href="mailto:manasimehta11@outlook.com">manasimehta11@outlook.com</a></li></ul>
+          <li class="p-name">Recipe Website</li><li><a class="u-email" href="mailto:"></a></li></ul>
       </div>
 
       <div class="footer-col footer-col-2"><ul class="social-media-list"><li><a href="https://github.com/m4nasi"><svg class="svg-icon"><use xlink:href="/recipes/assets/minima-social-icons.svg#github"></use></svg> <span class="username">m4nasi</span></a></li><li><a href="https://www.twitter.com/m4nasi"><svg class="svg-icon"><use xlink:href="/recipes/assets/minima-social-icons.svg#twitter"></use></svg> <span class="username">m4nasi</span></a></li></ul>

@@ -8,19 +8,21 @@ categories: recipes vegetarian mexican
 This is a Burrito bowl.
 
 ## Ingredients
-- 2 handfuls of black beans
-- 2 sweet peppers
-- Handfull of cheese
-- Fajita mix 
-- Sweetcorn
-- Rice
-- Tomato Rice Powder
-- Yogurt
-- Mint
-- Olive oil
-- Onion
-- Tomato
-- Wraps
+<ul class="ingredients-list">
+<li class="ingredient">2 handfuls of black beans</li>
+<li class="ingredient">2 sweet peppers</li>
+<li class="ingredient">Handfull of cheese</li>
+<li class="ingredient">Fajita mix </li>
+<li class="ingredient">Sweetcorn</li>
+<li class="ingredient">Rice</li>
+<li class="ingredient">Tomato Rice Powder</li>
+<li class="ingredient">Yogurt</li>
+<li class="ingredient">Mint</li>
+<li class="ingredient">Olive oil</li>
+<li class="ingredient">Onion</li>
+<li class="ingredient">Tomato</li>
+<li class="ingredient">Wraps</li>
+</ul>
 
 ## Instructions:
 1. Soak the black beans

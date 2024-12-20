@@ -8,16 +8,18 @@ categories: recipes vegetarian curry
 This hearty **Chickpea and Spinach Curry** is packed with protein and flavour. A quick and healthy vegetarian option!
 
 ## Ingredients:
-- 1 can (400g) chickpeas, drained and rinsed
-- 2 cups fresh spinach
-- 1 onion, finely chopped
-- 2 cloves garlic, minced
-- 1 tsp grated ginger
-- 1 can (400ml) coconut milk
-- 1 tbsp curry powder
-- 1 tsp turmeric powder
-- 2 tbsp olive oil
-- Salt to taste
+<ul class="ingredients-list">
+  <li class="ingredient">1 can (400g) chickpeas, drained and rinsed</li>
+  <li class="ingredient">2 cups fresh spinach</li>
+  <li class="ingredient">1 onion, finely chopped</li>
+  <li class="ingredient">2 cloves garlic, minced</li>
+  <li class="ingredient">1 tsp grated ginger</li>
+  <li class="ingredient">1 can (400ml) coconut milk</li>
+  <li class="ingredient">1 tbsp curry powder</li>
+  <li class="ingredient">1 tsp turmeric powder</li>
+  <li class="ingredient">2 tbsp olive oil</li>
+  <li class="ingredient">Salt to taste</li>
+</ul>
 
 ## Instructions:
 1. Heat olive oil in a large pan over medium heat.

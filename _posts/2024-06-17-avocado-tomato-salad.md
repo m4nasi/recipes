@@ -8,13 +8,15 @@ categories: recipes vegetarian salads
 This refreshing **Avocado and Tomato Salad** is packed with flavour and nutrients. A light and healthy option for any meal.
 
 ## Ingredients:
-- 2 ripe avocados, diced
-- 2 large tomatoes, chopped
-- 1/2 red onion, thinly sliced
-- 1 tbsp olive oil
-- 1 tbsp lemon juice
-- Salt and pepper to taste
-- Fresh basil leaves for garnish
+<ul class="ingredients-list">
+<li class="ingredient">2 ripe avocados, diced</li>
+<li class="ingredient">2 large tomatoes, chopped</li>
+<li class="ingredient">1/2 red onion, thinly sliced</li>
+<li class="ingredient">1 tbsp olive oil</li>
+<li class="ingredient">1 tbsp lemon juice</li>
+<li class="ingredient">Salt and pepper to taste</li>
+<li class="ingredient">Fresh basil leaves for garnish</li>
+</ul>
 
 ## Instructions:
 1. In a large bowl, combine avocados, tomatoes, and red onion.

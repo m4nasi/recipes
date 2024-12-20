@@ -8,16 +8,18 @@ categories: recipes vegetarian quick-meals
 Looking for a quick and delicious meal? These **Vegetarian Stir-Fried Noodles** are packed with flavour and loaded with fresh veggies!
 
 ## Ingredients:
-- 200g egg noodles or rice noodles
-- 1 carrot, julienned
-- 1 red bell pepper, sliced
-- 1 cup broccoli florets
-- 1/2 cup snow peas
-- 2 tbsp soy sauce
-- 1 tbsp sesame oil
-- 1 clove garlic, minced
-- 1 tsp ginger, grated
-- 1 spring onion, chopped
+<ul class="ingredients-list">
+<li class="ingredient">200g egg noodles or rice noodles</li>
+<li class="ingredient">1 carrot, julienned</li>
+<li class="ingredient">1 red bell pepper, sliced</li>
+<li class="ingredient">1 cup broccoli florets</li>
+<li class="ingredient">1/2 cup snow peas</li>
+<li class="ingredient">2 tbsp soy sauce</li>
+<li class="ingredient">1 tbsp sesame oil</li>
+<li class="ingredient">1 clove garlic, minced</li>
+<li class="ingredient">1 tsp ginger, grated</li>
+<li class="ingredient">1 spring onion, chopped</li>
+</ul>
 
 ## Instructions:
 1. Cook the noodles according to the package instructions. Drain and set aside.

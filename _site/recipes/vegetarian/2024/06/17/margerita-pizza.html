@@ -44,14 +44,14 @@
   <p>Nothing beats a classic <strong>Margherita Pizza</strong> with fresh basil, juicy tomatoes, and melty mozzarella. Here’s a simple recipe you can whip up in no time!</p>
 
 <h2 id="ingredients">Ingredients:</h2>
-<ul>
-  <li>1 pizza dough (store-bought or homemade)</li>
-  <li>1 cup tomato sauce</li>
-  <li>2 fresh tomatoes, sliced</li>
-  <li>250g mozzarella cheese, sliced</li>
-  <li>Fresh basil leaves</li>
-  <li>Olive oil</li>
-  <li>Salt and pepper to taste</li>
+<ul class="ingredients-list">
+<li class="ingredient">1 pizza dough (store-bought or homemade)</li>
+<li class="ingredient">1 cup tomato sauce</li>
+<li class="ingredient">2 fresh tomatoes, sliced</li>
+<li class="ingredient">250g mozzarella cheese, sliced</li>
+<li class="ingredient">Fresh basil leaves</li>
+<li class="ingredient">Olive oil</li>
+<li class="ingredient">Salt and pepper to taste</li>
 </ul>
 
 <h2 id="instructions">Instructions:</h2>
@@ -73,6 +73,8 @@
     <h3>Related Recipes</h3>
     <ul>
       
+        
+          <li><a href="/recipes/recipes,/vegetarian/2024/12/18/paneer-nachos.html">Paneer Nachos Recipe</a></li>
         
       
         
@@ -127,8 +129,7 @@
 </style>
 
 <script>
-  // Example: Add Ingredient Export JavaScript
-  document.getElementById('export-btn')?.addEventListener('click', function() {
+  document.getElementById('export-btn').addEventListener('click', function() {
     const ingredients = [];
     const ingredientItems = document.querySelectorAll('.ingredient');
     ingredientItems.forEach(item => ingredients.push(item.textContent));
@@ -162,7 +163,7 @@
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
-          <li class="p-name">Recipe Website</li><li><a class="u-email" href="mailto:manasimehta11@outlook.com">manasimehta11@outlook.com</a></li></ul>
+          <li class="p-name">Recipe Website</li><li><a class="u-email" href="mailto:"></a></li></ul>
       </div>
 
       <div class="footer-col footer-col-2"><ul class="social-media-list"><li><a href="https://github.com/m4nasi"><svg class="svg-icon"><use xlink:href="/recipes/assets/minima-social-icons.svg#github"></use></svg> <span class="username">m4nasi</span></a></li><li><a href="https://www.twitter.com/m4nasi"><svg class="svg-icon"><use xlink:href="/recipes/assets/minima-social-icons.svg#twitter"></use></svg> <span class="username">m4nasi</span></a></li></ul>
