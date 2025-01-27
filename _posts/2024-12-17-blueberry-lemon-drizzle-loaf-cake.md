@@ -2,7 +2,7 @@
 layout: post
 title: "Blueberry Lemon Drizzle Loaf Cake"
 date: 2024-06-17 15:00:00 +0000
-categories: recipes vegan cake
+categories: recipes vegan cake bakes
 ---
 
 This is a blueberry lemon drizzle cake!

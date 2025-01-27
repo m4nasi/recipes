@@ -1,4 +1,98 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/recipes/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/recipes/" rel="alternate" type="text/html" /><updated>2025-01-27T20:20:30+00:00</updated><id>http://localhost:4000/recipes/feed.xml</id><title type="html">Recipe Website</title><subtitle>A website to display recipes in one location.</subtitle><entry><title type="html">Paneer Broccoli Soup</title><link href="http://localhost:4000/recipes/recipes/vegetarian/soup/2025/01/27/paneer-broccoli-soup.html" rel="alternate" type="text/html" title="Paneer Broccoli Soup" /><published>2025-01-27T12:00:00+00:00</published><updated>2025-01-27T12:00:00+00:00</updated><id>http://localhost:4000/recipes/recipes/vegetarian/soup/2025/01/27/paneer-broccoli-soup</id><content type="html" xml:base="http://localhost:4000/recipes/recipes/vegetarian/soup/2025/01/27/paneer-broccoli-soup.html"><![CDATA[<p>This Paneer Broccoli Soup with Cornflour and Corn is a hearty, creamy, and nutritious dish perfect for a light meal or appetizer. The combination of broccoli, corn, and paneer creates a deliciously comforting soup.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/recipes/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/recipes/" rel="alternate" type="text/html" /><updated>2025-01-27T20:48:18+00:00</updated><id>http://localhost:4000/recipes/feed.xml</id><title type="html">Recipe Website</title><subtitle>A website to display recipes in one location.</subtitle><entry><title type="html">Vegetable Pulao</title><link href="http://localhost:4000/recipes/recipes/vegetarian/rice/2025/01/27/vegetable-pulao.html" rel="alternate" type="text/html" title="Vegetable Pulao" /><published>2025-01-27T12:00:00+00:00</published><updated>2025-01-27T12:00:00+00:00</updated><id>http://localhost:4000/recipes/recipes/vegetarian/rice/2025/01/27/vegetable-pulao</id><content type="html" xml:base="http://localhost:4000/recipes/recipes/vegetarian/rice/2025/01/27/vegetable-pulao.html"><![CDATA[<p><strong>Vegetable Pulao</strong> is a fragrant and colourful rice dish made with mixed vegetables and spices. It’s simple, nutritious, and can be served with raita or curry.</p>
+
+<h2 id="ingredients">Ingredients:</h2>
+<ul class="ingredients-list">
+<li class="ingredient">1 cup basmati rice, soaked for 30 minutes</li>
+<li class="ingredient">1 cup mixed vegetables (carrot, peas, beans, potatoes)</li>
+<li class="ingredient">1 onion, finely sliced</li>
+<li class="ingredient">2 tomatoes, chopped</li>
+<li class="ingredient">1 teaspoon cumin seeds</li>
+<li class="ingredient">2-3 cardamom pods</li>
+<li class="ingredient">1 bay leaf</li>
+<li class="ingredient">1/2 teaspoon turmeric powder</li>
+<li class="ingredient">1 teaspoon garam masala</li>
+<li class="ingredient">1 tablespoon ghee or oil</li>
+<li class="ingredient">Salt to taste</li>
+<li class="ingredient">2 cups water</li>
+<li class="ingredient">Fresh cilantro for garnish</li>
+</ul>
+
+<h2 id="instructions">Instructions:</h2>
+<ol>
+  <li><strong>Cook the spices</strong>:
+    <ul>
+      <li>Heat ghee or oil in a pan. Add cumin seeds, cardamom pods, and bay leaf. Let them splutter.</li>
+    </ul>
+  </li>
+  <li><strong>Prepare the vegetables</strong>:
+    <ul>
+      <li>Add the sliced onions and cook until golden brown. Add chopped tomatoes, turmeric powder, and salt. Cook until the tomatoes soften.</li>
+    </ul>
+  </li>
+  <li><strong>Cook the rice and vegetables</strong>:
+    <ul>
+      <li>Add the mixed vegetables and stir for 2-3 minutes. Then add the soaked rice and water. Bring to a boil, then cover and cook on low heat for 15-20 minutes.</li>
+    </ul>
+  </li>
+  <li><strong>Serve</strong>:
+    <ul>
+      <li>Once the rice is cooked, fluff it with a fork and garnish with fresh cilantro.</li>
+    </ul>
+  </li>
+</ol>
+
+<p>Enjoy your <strong>Vegetable Pulao</strong>!</p>]]></content><author><name></name></author><category term="recipes" /><category term="vegetarian" /><category term="rice" /><summary type="html"><![CDATA[Vegetable Pulao is a fragrant and colourful rice dish made with mixed vegetables and spices. It’s simple, nutritious, and can be served with raita or curry.]]></summary></entry><entry><title type="html">Sweet Potato and Chickpea Curry</title><link href="http://localhost:4000/recipes/recipes/vegetarian/curry/2025/01/27/sweet-potato-chickpea-curry.html" rel="alternate" type="text/html" title="Sweet Potato and Chickpea Curry" /><published>2025-01-27T12:00:00+00:00</published><updated>2025-01-27T12:00:00+00:00</updated><id>http://localhost:4000/recipes/recipes/vegetarian/curry/2025/01/27/sweet-potato-chickpea-curry</id><content type="html" xml:base="http://localhost:4000/recipes/recipes/vegetarian/curry/2025/01/27/sweet-potato-chickpea-curry.html"><![CDATA[<p><strong>Sweet Potato and Chickpea Curry</strong> is a comforting and hearty curry made with sweet potatoes, chickpeas, and a blend of spices. It’s perfect for a wholesome meal.</p>
+
+<h2 id="ingredients">Ingredients:</h2>
+<ul class="ingredients-list">
+<li class="ingredient">2 medium sweet potatoes, peeled and cubed</li>
+<li class="ingredient">1 cup chickpeas, cooked or canned</li>
+<li class="ingredient">1 onion, chopped</li>
+<li class="ingredient">2 tomatoes, chopped</li>
+<li class="ingredient">1 tablespoon ginger-garlic paste</li>
+<li class="ingredient">1 teaspoon cumin seeds</li>
+<li class="ingredient">1/2 teaspoon turmeric powder</li>
+<li class="ingredient">1 teaspoon coriander powder</li>
+<li class="ingredient">1/2 teaspoon cumin powder</li>
+<li class="ingredient">1 teaspoon garam masala</li>
+<li class="ingredient">1 tablespoon oil</li>
+<li class="ingredient">1/2 cup coconut milk</li>
+<li class="ingredient">Salt to taste</li>
+<li class="ingredient">Fresh cilantro for garnish</li>
+</ul>
+
+<h2 id="instructions">Instructions:</h2>
+<ol>
+  <li><strong>Sauté the aromatics</strong>:
+    <ul>
+      <li>Heat oil in a large pan and add cumin seeds. Once they splutter, add chopped onions and cook until golden brown.</li>
+      <li>Stir in ginger-garlic paste and cook for 1 minute.</li>
+    </ul>
+  </li>
+  <li><strong>Add the tomatoes and spices</strong>:
+    <ul>
+      <li>Add chopped tomatoes, turmeric, coriander powder, cumin powder, and salt. Cook for 5-7 minutes until the tomatoes soften.</li>
+    </ul>
+  </li>
+  <li><strong>Add sweet potatoes and chickpeas</strong>:
+    <ul>
+      <li>Add the cubed sweet potatoes and cooked chickpeas to the pan. Stir well to combine.</li>
+      <li>Add 1/2 cup water and cook for 10-15 minutes until the sweet potatoes are tender.</li>
+    </ul>
+  </li>
+  <li><strong>Finish the curry</strong>:
+    <ul>
+      <li>Stir in the coconut milk and garam masala. Simmer for 5 minutes.</li>
+    </ul>
+  </li>
+  <li><strong>Serve</strong>:
+    <ul>
+      <li>Garnish with fresh cilantro and serve with rice or naan.</li>
+    </ul>
+  </li>
+</ol>
+
+<p>Enjoy your <strong>Sweet Potato and Chickpea Curry</strong>!</p>]]></content><author><name></name></author><category term="recipes" /><category term="vegetarian" /><category term="curry" /><summary type="html"><![CDATA[Sweet Potato and Chickpea Curry is a comforting and hearty curry made with sweet potatoes, chickpeas, and a blend of spices. It’s perfect for a wholesome meal.]]></summary></entry><entry><title type="html">Paneer Broccoli Soup</title><link href="http://localhost:4000/recipes/recipes/vegetarian/soup/2025/01/27/paneer-broccoli-soup.html" rel="alternate" type="text/html" title="Paneer Broccoli Soup" /><published>2025-01-27T12:00:00+00:00</published><updated>2025-01-27T12:00:00+00:00</updated><id>http://localhost:4000/recipes/recipes/vegetarian/soup/2025/01/27/paneer-broccoli-soup</id><content type="html" xml:base="http://localhost:4000/recipes/recipes/vegetarian/soup/2025/01/27/paneer-broccoli-soup.html"><![CDATA[<p>This Paneer Broccoli Soup with Cornflour and Corn is a hearty, creamy, and nutritious dish perfect for a light meal or appetizer. The combination of broccoli, corn, and paneer creates a deliciously comforting soup.</p>
 
 <h2 id="ingredients">Ingredients:</h2>
 <ul class="ingredients-list"> 
@@ -54,308 +148,325 @@
   <li>Ladle the hot soup into bowls and garnish with fresh cream and coriander leaves.</li>
 </ol>
 
-<p>Enjoy your creamy and nutritious Paneer Broccoli Soup with Cornflour and Corn!</p>]]></content><author><name></name></author><category term="recipes" /><category term="vegetarian" /><category term="soup" /><summary type="html"><![CDATA[This Paneer Broccoli Soup with Cornflour and Corn is a hearty, creamy, and nutritious dish perfect for a light meal or appetizer. The combination of broccoli, corn, and paneer creates a deliciously comforting soup.]]></summary></entry><entry><title type="html">Paneer Nachos Recipe</title><link href="http://localhost:4000/recipes/recipes/recipes,/vegetarian/2024/12/18/paneer-nachos.html" rel="alternate" type="text/html" title="Paneer Nachos Recipe" /><published>2024-12-18T00:00:00+00:00</published><updated>2024-12-18T00:00:00+00:00</updated><id>http://localhost:4000/recipes/recipes/recipes,/vegetarian/2024/12/18/paneer-nachos</id><content type="html" xml:base="http://localhost:4000/recipes/recipes/recipes,/vegetarian/2024/12/18/paneer-nachos.html"><![CDATA[<h2 id="paneer-nachos">Paneer Nachos</h2>
-
-<p>These <strong>Paneer Nachos</strong> are a delicious vegetarian twist on the classic nachos, topped with crispy paneer cubes, veggies, and melted cheese. A perfect snack or appetizer for any occasion!</p>
-
-<h3 id="ingredients">Ingredients</h3>
-
-<h4 id="for-the-nachos">For the Nachos:</h4>
-<ul class="ingredients-list">
-   <li class="ingredient">200g paneer, cubed</li>
-   <li class="ingredient">1 pack tortilla chips (store-bought or homemade)</li>
-   <li class="ingredient">1 cup shredded cheese (cheddar or a mix of mozzarella and cheddar)</li>
-   <li class="ingredient">1 small onion, finely chopped</li>
-   <li class="ingredient">1 tomato, finely chopped</li>
-   <li class="ingredient">1/2 cup sweet corn (optional)</li>
-   <li class="ingredient">1/2 tsp cumin powder</li>
-   <li class="ingredient">1/2 tsp paprika or chili powder</li>
-   <li class="ingredient">Salt to taste</li>
-   <li class="ingredient">Fresh cilantro, chopped (for garnish)</li>
-   <li class="ingredient">2 tbsp vegetable oil</li>
-</ul>
-
-<h4 id="for-the-sauce">For the Sauce:</h4>
-<ul>
-  <li>1/2 cup sour cream or yogurt</li>
-  <li>1 tbsp mayonnaise</li>
-  <li>1 tsp lemon juice</li>
-  <li>1/2 tsp garlic powder</li>
-  <li>Salt to taste</li>
-</ul>
-
-<h3 id="instructions">Instructions</h3>
-
-<ol>
-  <li><strong>Prepare the Paneer:</strong>
-    <ul>
-      <li>Heat oil in a pan and sauté the cubed paneer until golden brown and crispy. Set aside.</li>
-    </ul>
-  </li>
-  <li><strong>Make the Sauce:</strong>
-    <ul>
-      <li>In a small bowl, mix together sour cream or yogurt, mayonnaise, lemon juice, garlic powder, and a pinch of salt. Set aside.</li>
-    </ul>
-  </li>
-  <li><strong>Assemble the Nachos:</strong>
-    <ul>
-      <li>On a large baking tray, spread out the tortilla chips evenly.</li>
-      <li>Top with sautéed paneer, chopped onions, tomatoes, sweet corn (if using), and a generous sprinkle of cumin powder and paprika.</li>
-    </ul>
-  </li>
-  <li><strong>Add Cheese:</strong>
-    <ul>
-      <li>Sprinkle the shredded cheese evenly over the nachos.</li>
-    </ul>
-  </li>
-  <li><strong>Bake or Broil:</strong>
-    <ul>
-      <li>Preheat your oven to 375°F (190°C). Bake for 10-15 minutes or broil for 5-7 minutes until the cheese is melted and bubbly.</li>
-    </ul>
-  </li>
-  <li><strong>Garnish:</strong>
-    <ul>
-      <li>Once out of the oven, drizzle the prepared sauce over the nachos.</li>
-      <li>Garnish with fresh cilantro and serve immediately.</li>
-    </ul>
-  </li>
-</ol>
-
-<hr />
-
-<p>Enjoy your <strong>Paneer Nachos</strong> as a fun and tasty snack with a fusion of Indian and Tex-Mex flavors!</p>]]></content><author><name></name></author><category term="recipes" /><category term="recipes," /><category term="vegetarian" /><category term="paneer" /><category term="nachos" /><category term="snacks" /><summary type="html"><![CDATA[Paneer Nachos]]></summary></entry><entry><title type="html">Avocado and Tomato Salad</title><link href="http://localhost:4000/recipes/recipes/vegetarian/salads/2024/06/17/avocado-tomato-salad.html" rel="alternate" type="text/html" title="Avocado and Tomato Salad" /><published>2024-06-17T17:00:00+01:00</published><updated>2024-06-17T17:00:00+01:00</updated><id>http://localhost:4000/recipes/recipes/vegetarian/salads/2024/06/17/avocado-tomato-salad</id><content type="html" xml:base="http://localhost:4000/recipes/recipes/vegetarian/salads/2024/06/17/avocado-tomato-salad.html"><![CDATA[<p>This refreshing <strong>Avocado and Tomato Salad</strong> is packed with flavour and nutrients. A light and healthy option for any meal.</p>
+<p>Enjoy your creamy and nutritious Paneer Broccoli Soup with Cornflour and Corn!</p>]]></content><author><name></name></author><category term="recipes" /><category term="vegetarian" /><category term="soup" /><summary type="html"><![CDATA[This Paneer Broccoli Soup with Cornflour and Corn is a hearty, creamy, and nutritious dish perfect for a light meal or appetizer. The combination of broccoli, corn, and paneer creates a deliciously comforting soup.]]></summary></entry><entry><title type="html">Methi Thepla</title><link href="http://localhost:4000/recipes/recipes/vegetarian/flatbread/2025/01/27/methi-thepla.html" rel="alternate" type="text/html" title="Methi Thepla" /><published>2025-01-27T12:00:00+00:00</published><updated>2025-01-27T12:00:00+00:00</updated><id>http://localhost:4000/recipes/recipes/vegetarian/flatbread/2025/01/27/methi-thepla</id><content type="html" xml:base="http://localhost:4000/recipes/recipes/vegetarian/flatbread/2025/01/27/methi-thepla.html"><![CDATA[<p><strong>Methi Thepla</strong> is a popular Gujarati flatbread made with fenugreek leaves and spices. It’s perfect for breakfast, lunch, or as a snack.</p>
 
 <h2 id="ingredients">Ingredients:</h2>
 <ul class="ingredients-list">
-<li class="ingredient">2 ripe avocados, diced</li>
-<li class="ingredient">2 large tomatoes, chopped</li>
-<li class="ingredient">1/2 red onion, thinly sliced</li>
-<li class="ingredient">1 tbsp olive oil</li>
-<li class="ingredient">1 tbsp lemon juice</li>
-<li class="ingredient">Salt and pepper to taste</li>
-<li class="ingredient">Fresh basil leaves for garnish</li>
-</ul>
-
-<h2 id="instructions">Instructions:</h2>
-<ol>
-  <li>In a large bowl, combine avocados, tomatoes, and red onion.</li>
-  <li>Drizzle with olive oil and lemon juice.</li>
-  <li>Season with salt and pepper to taste.</li>
-  <li>Toss gently to mix, garnish with fresh basil, and serve immediately.</li>
-</ol>
-
-<p>Perfect as a side dish or a light lunch!</p>
-
-<p><button id="export-btn">Export Ingredients</button></p>
-
-<script>
-    document.getElementById('export-btn').addEventListener('click', function() {
-  const ingredients = [];
-  const ingredientItems = document.querySelectorAll('#ingredient-list li');
-  
-  ingredientItems.forEach(function(item) {
-    ingredients.push(item.textContent);
-  });
-
-  // Export the ingredients as a CSV, JSON, or Text file
-  exportIngredientsAsCSV(ingredients);  // Or use exportIngredientsAsJSON or exportIngredientsAsText
-});
-
-// Export as CSV
-function exportIngredientsAsCSV(ingredients) {
-  let csvContent = "data:text/csv;charset=utf-8,Ingredient\n";  // CSV header
-  ingredients.forEach(function(ingredient) {
-    csvContent += ingredient + "\n";
-  });
-
-  const encodedUri = encodeURI(csvContent);
-  const link = document.createElement('a');
-  link.setAttribute('href', encodedUri);
-  link.setAttribute('download', 'ingredients.csv');
-  link.click();
-}
-</script>]]></content><author><name></name></author><category term="recipes" /><category term="vegetarian" /><category term="salads" /><summary type="html"><![CDATA[This refreshing Avocado and Tomato Salad is packed with flavour and nutrients. A light and healthy option for any meal.]]></summary></entry><entry><title type="html">Chole and Paratha</title><link href="http://localhost:4000/recipes/recipes/vegetarian/dinner/2024/06/17/chole.html" rel="alternate" type="text/html" title="Chole and Paratha" /><published>2024-06-17T17:00:00+01:00</published><updated>2024-06-17T17:00:00+01:00</updated><id>http://localhost:4000/recipes/recipes/vegetarian/dinner/2024/06/17/chole</id><content type="html" xml:base="http://localhost:4000/recipes/recipes/vegetarian/dinner/2024/06/17/chole.html"><![CDATA[<p>Vegetarian Chole (Chickpea Curry)</p>
-
-<h2 id="ingredients">Ingredients:</h2>
-<ul class="ingredients-list">
-<li class="ingredient">2 cups dried chickpeas</li>
-<li class="ingredient">1 large onion, finely chopped</li>
-<li class="ingredient">2 tomatoes, pureed</li>
-<li class="ingredient">2 green chilies, chopped</li>
-<li class="ingredient">1-inch piece of ginger, grated</li>
-<li class="ingredient">3 cloves garlic, minced</li>
-<li class="ingredient">2 tbsp vegetable oil</li>
-<li class="ingredient">1 tsp cumin seeds</li>
-<li class="ingredient">1 bay leaf</li>
-<li class="ingredient">1 tsp coriander powder</li>
-<li class="ingredient">1 tsp cumin powder</li>
-<li class="ingredient">1 tsp turmeric powder</li>
-<li class="ingredient">1/2 tsp red chili powder (adjust to taste)</li>
-<li class="ingredient">1/2 tsp lemon juice</li>
+<li class="ingredient">1 cup whole wheat flour</li>
+<li class="ingredient">1/2 cup fresh fenugreek leaves (methi), chopped</li>
+<li class="ingredient">1 teaspoon cumin seeds</li>
+<li class="ingredient">1/2 teaspoon turmeric powder</li>
+<li class="ingredient">1/2 teaspoon coriander powder</li>
+<li class="ingredient">1/2 teaspoon carom seeds (ajwain)</li>
+<li class="ingredient">1 tablespoon sesame seeds</li>
+<li class="ingredient">1/2 teaspoon red chili powder</li>
 <li class="ingredient">Salt to taste</li>
-<li class="ingredient">Fresh coriander leaves for garnish</li>
-<li class="ingredient">4 cups water (for cooking chickpeas)</li>
-<li class="ingredient">1/2 tsp baking soda (if using dried chickpeas)</li>
-</ul>
-
-<h2 id="instructions">Instructions:</h2>
-<p>Prepare Chickpeas:</p>
-<ol>
-  <li>If using dried chickpeas, soak them overnight in water. The next day, rinse them and cook in a pressure cooker with 4 cups of water, a pinch of baking soda, and a bit of salt for about 30-40 minutes, or until soft.</li>
-  <li>If using canned chickpeas, simply rinse and drain them.
-Cook the Spices:</li>
-  <li>Heat oil in a large pan over medium heat. Add cumin seeds and bay leaf, and let them splutter.</li>
-  <li>Add chopped onions and sauté until golden brown.</li>
-  <li>Add grated ginger, minced garlic, and chopped green chilies. Cook for 2 minutes.
-Make the Gravy:</li>
-  <li>Add pureed tomatoes to the pan, along with coriander powder, cumin powder, turmeric powder, garam masala, red chili powder, and salt.</li>
-  <li>Stir well and cook the mixture until the oil separates from the masala (about 5 minutes).
-Add Chickpeas:</li>
-  <li>Add the cooked chickpeas to the pan along with a cup of water (or more, depending on the consistency you prefer). Stir everything together, and let it simmer for 15-20 minutes.
-Final Touches:</li>
-  <li>Adjust the seasoning with amchur or lemon juice to add tanginess.</li>
-  <li>Garnish with fresh coriander leaves and serve hot with rice, naan, or roti.</li>
-</ol>]]></content><author><name></name></author><category term="recipes" /><category term="vegetarian" /><category term="dinner" /><summary type="html"><![CDATA[Vegetarian Chole (Chickpea Curry)]]></summary></entry><entry><title type="html">Blueberry Lemon Drizzle Loaf Cake</title><link href="http://localhost:4000/recipes/recipes/vegan/cake/2024/06/17/blueberry-lemon-drizzle-loaf-cake.html" rel="alternate" type="text/html" title="Blueberry Lemon Drizzle Loaf Cake" /><published>2024-06-17T16:00:00+01:00</published><updated>2024-06-17T16:00:00+01:00</updated><id>http://localhost:4000/recipes/recipes/vegan/cake/2024/06/17/blueberry-lemon-drizzle-loaf-cake</id><content type="html" xml:base="http://localhost:4000/recipes/recipes/vegan/cake/2024/06/17/blueberry-lemon-drizzle-loaf-cake.html"><![CDATA[<p>This is a blueberry lemon drizzle cake!</p>
-
-<h2 id="ingredients">Ingredients:</h2>
-<ul class="ingredients-list">
-<li class="ingredient">1 cup melted butter</li>
-<li class="ingredient">1/2 cup yogurt </li>
-<li class="ingredient">1 1/2 cup maida/flour</li>
-<li class="ingredient">1/2 cup custard powder</li>
-<li class="ingredient">1 tbsp vanilla extract liquid</li>
-<li class="ingredient">20 blueberries coated in flour</li>
-<li class="ingredient">2 tbsp baking soda</li>
-<li class="ingredient">1 tsp bicarbonate soda</li>
-<li class="ingredient">1 tbsp sunflower oil </li>
-<li class="ingredient">2 tbsp lemon zest</li>
-</ul>
-
-<h1 id="drizzle">Drizzle:</h1>
-<ul>
-  <li>2/3 refined sugar</li>
-  <li>Half lemon juice</li>
+<li class="ingredient">1 tablespoon oil (for dough)</li>
+<li class="ingredient">Water as needed to knead the dough</li>
+<li class="ingredient">Ghee or oil for cooking</li>
 </ul>
 
 <h2 id="instructions">Instructions:</h2>
 <ol>
-  <li>Preheat oven 180 degree</li>
-  <li>Place the baking paper into the baking tray and slightly butter and dust flour over the baking paper</li>
-  <li>Mix the sugar and melted butter and yogurt until white and fluffy - whisk</li>
-  <li>Mix in the lemon zest and vanilla extract</li>
-  <li>Fold the flour in but don’t over mix</li>
-  <li>Add in bicarbonate soda and baking soda</li>
-  <li>Mix in the flour covered blueberries and be careful not to pop any</li>
-  <li>Pour the mixture into the baking tray and flatten it out, removing all air bubbles</li>
-  <li>Place blueberries on top</li>
-  <li>Bake for 20/25 mins (until the knife is clean)</li>
-  <li>Mix the refined sugar with lemon juice</li>
-  <li>Wait til completely cooled down and drizzle the lemon drizzle over the cake</li>
-</ol>]]></content><author><name></name></author><category term="recipes" /><category term="vegan" /><category term="cake" /><summary type="html"><![CDATA[This is a blueberry lemon drizzle cake!]]></summary></entry><entry><title type="html">Burrito Bowl</title><link href="http://localhost:4000/recipes/recipes/vegetarian/mexican/2024/06/17/burrito-bowl.html" rel="alternate" type="text/html" title="Burrito Bowl" /><published>2024-06-17T16:00:00+01:00</published><updated>2024-06-17T16:00:00+01:00</updated><id>http://localhost:4000/recipes/recipes/vegetarian/mexican/2024/06/17/burrito-bowl</id><content type="html" xml:base="http://localhost:4000/recipes/recipes/vegetarian/mexican/2024/06/17/burrito-bowl.html"><![CDATA[<p>This is a Burrito bowl.</p>
-
-<h2 id="ingredients">Ingredients</h2>
-<ul class="ingredients-list">
-<li class="ingredient">2 handfuls of black beans</li>
-<li class="ingredient">2 sweet peppers</li>
-<li class="ingredient">Handfull of cheese</li>
-<li class="ingredient">Fajita mix </li>
-<li class="ingredient">Sweetcorn</li>
-<li class="ingredient">Rice</li>
-<li class="ingredient">Tomato Rice Powder</li>
-<li class="ingredient">Yogurt</li>
-<li class="ingredient">Mint</li>
-<li class="ingredient">Olive oil</li>
-<li class="ingredient">Onion</li>
-<li class="ingredient">Tomato</li>
-<li class="ingredient">Wraps</li>
-</ul>
-
-<h2 id="instructions">Instructions:</h2>
-<ol>
-  <li>Soak the black beans</li>
-  <li>Pressure cook the black beans</li>
-  <li>Boil the rice and drain</li>
-  <li>Mix Onion, Tomatoes and Tomato powder</li>
-  <li>Boil the corn</li>
-  <li>Mix cheese into the corn</li>
-  <li>Saulte the peppers and mix the fajita mix</li>
-  <li>Cook the black beans and mix in the fajita mix</li>
-  <li>Heat up the wraps so warm</li>
-  <li>Wrap burrito filling into wrap</li>
-</ol>]]></content><author><name></name></author><category term="recipes" /><category term="vegetarian" /><category term="mexican" /><summary type="html"><![CDATA[This is a Burrito bowl.]]></summary></entry><entry><title type="html">Chickpea and Spinach Curry</title><link href="http://localhost:4000/recipes/recipes/vegetarian/curry/2024/06/17/chickpea-spinach-curry.html" rel="alternate" type="text/html" title="Chickpea and Spinach Curry" /><published>2024-06-17T16:00:00+01:00</published><updated>2024-06-17T16:00:00+01:00</updated><id>http://localhost:4000/recipes/recipes/vegetarian/curry/2024/06/17/chickpea-spinach-curry</id><content type="html" xml:base="http://localhost:4000/recipes/recipes/vegetarian/curry/2024/06/17/chickpea-spinach-curry.html"><![CDATA[<p>This hearty <strong>Chickpea and Spinach Curry</strong> is packed with protein and flavour. A quick and healthy vegetarian option!</p>
-
-<h2 id="ingredients">Ingredients:</h2>
-<ul class="ingredients-list">
-  <li class="ingredient">1 can (400g) chickpeas, drained and rinsed</li>
-  <li class="ingredient">2 cups fresh spinach</li>
-  <li class="ingredient">1 onion, finely chopped</li>
-  <li class="ingredient">2 cloves garlic, minced</li>
-  <li class="ingredient">1 tsp grated ginger</li>
-  <li class="ingredient">1 can (400ml) coconut milk</li>
-  <li class="ingredient">1 tbsp curry powder</li>
-  <li class="ingredient">1 tsp turmeric powder</li>
-  <li class="ingredient">2 tbsp olive oil</li>
-  <li class="ingredient">Salt to taste</li>
-</ul>
-
-<h2 id="instructions">Instructions:</h2>
-<ol>
-  <li>Heat olive oil in a large pan over medium heat.</li>
-  <li>Add chopped onion, garlic, and ginger, and sauté until soft.</li>
-  <li>Stir in curry powder and turmeric, and cook for 1 minute.</li>
-  <li>Add chickpeas and coconut milk. Simmer for 10 minutes.</li>
-  <li>Toss in the fresh spinach and cook until wilted.</li>
-  <li>Season with salt and serve with rice or naan bread.</li>
+  <li><strong>Prepare the dough</strong>:
+    <ul>
+      <li>In a large bowl, combine whole wheat flour, chopped methi leaves, cumin seeds, turmeric, coriander powder, carom seeds, sesame seeds, red chili powder, and salt.</li>
+      <li>Add 1 tablespoon oil and mix well. Gradually add water to knead into a soft dough. Let it rest for 15-20 minutes.</li>
+    </ul>
+  </li>
+  <li><strong>Roll the thepla</strong>:
+    <ul>
+      <li>Divide the dough into small balls. Roll each ball into a thin circle using a rolling pin.</li>
+    </ul>
+  </li>
+  <li><strong>Cook the thepla</strong>:
+    <ul>
+      <li>Heat a tawa or griddle over medium heat. Place the rolled-out thepla on the tawa and cook for 1-2 minutes. Flip it over, and apply some ghee or oil on both sides. Cook until golden brown spots appear on both sides.</li>
+    </ul>
+  </li>
+  <li><strong>Serve</strong>:
+    <ul>
+      <li>Serve the thepla hot with yogurt or pickle.</li>
+    </ul>
+  </li>
 </ol>
 
-<p>This curry is simple, nutritious, and perfect for meal prep!</p>]]></content><author><name></name></author><category term="recipes" /><category term="vegetarian" /><category term="curry" /><summary type="html"><![CDATA[This hearty Chickpea and Spinach Curry is packed with protein and flavour. A quick and healthy vegetarian option!]]></summary></entry><entry><title type="html">Vegetarian Stir-Fried Noodles</title><link href="http://localhost:4000/recipes/recipes/vegetarian/quick-meals/2024/06/17/vegetarian-stir-fried-noodles.html" rel="alternate" type="text/html" title="Vegetarian Stir-Fried Noodles" /><published>2024-06-17T14:00:00+01:00</published><updated>2024-06-17T14:00:00+01:00</updated><id>http://localhost:4000/recipes/recipes/vegetarian/quick-meals/2024/06/17/vegetarian-stir-fried-noodles</id><content type="html" xml:base="http://localhost:4000/recipes/recipes/vegetarian/quick-meals/2024/06/17/vegetarian-stir-fried-noodles.html"><![CDATA[<p>Looking for a quick and delicious meal? These <strong>Vegetarian Stir-Fried Noodles</strong> are packed with flavour and loaded with fresh veggies!</p>
+<p>Enjoy your <strong>Methi Thepla</strong>!</p>]]></content><author><name></name></author><category term="recipes" /><category term="vegetarian" /><category term="flatbread" /><summary type="html"><![CDATA[Methi Thepla is a popular Gujarati flatbread made with fenugreek leaves and spices. It’s perfect for breakfast, lunch, or as a snack.]]></summary></entry><entry><title type="html">Lentil Soup with Spinach</title><link href="http://localhost:4000/recipes/recipes/vegetarian/soup/2025/01/27/lentil-soup-with-spinach.html" rel="alternate" type="text/html" title="Lentil Soup with Spinach" /><published>2025-01-27T12:00:00+00:00</published><updated>2025-01-27T12:00:00+00:00</updated><id>http://localhost:4000/recipes/recipes/vegetarian/soup/2025/01/27/lentil-soup-with-spinach</id><content type="html" xml:base="http://localhost:4000/recipes/recipes/vegetarian/soup/2025/01/27/lentil-soup-with-spinach.html"><![CDATA[<p><strong>Lentil Soup with Spinach</strong> is a nourishing and wholesome soup filled with protein-packed lentils and nutritious spinach. It’s comforting and easy to prepare.</p>
 
 <h2 id="ingredients">Ingredients:</h2>
 <ul class="ingredients-list">
-<li class="ingredient">200g egg noodles or rice noodles</li>
-<li class="ingredient">1 carrot, julienned</li>
-<li class="ingredient">1 red bell pepper, sliced</li>
-<li class="ingredient">1 cup broccoli florets</li>
-<li class="ingredient">1/2 cup snow peas</li>
-<li class="ingredient">2 tbsp soy sauce</li>
-<li class="ingredient">1 tbsp sesame oil</li>
-<li class="ingredient">1 clove garlic, minced</li>
-<li class="ingredient">1 tsp ginger, grated</li>
-<li class="ingredient">1 spring onion, chopped</li>
+<li class="ingredient">1 cup lentils (red or yellow)</li>
+<li class="ingredient">2 cups spinach, chopped</li>
+<li class="ingredient">1 onion, chopped</li>
+<li class="ingredient">2 tomatoes, chopped</li>
+<li class="ingredient">1 tablespoon ginger-garlic paste</li>
+<li class="ingredient">1 teaspoon cumin seeds</li>
+<li class="ingredient">1/2 teaspoon turmeric powder</li>
+<li class="ingredient">1/2 teaspoon coriander powder</li>
+<li class="ingredient">1/2 teaspoon cumin powder</li>
+<li class="ingredient">1 tablespoon oil</li>
+<li class="ingredient">Salt to taste</li>
+<li class="ingredient">Fresh lemon juice (optional)</li>
 </ul>
 
 <h2 id="instructions">Instructions:</h2>
 <ol>
-  <li>Cook the noodles according to the package instructions. Drain and set aside.</li>
-  <li>Heat sesame oil in a large pan or wok over medium-high heat.</li>
-  <li>Add garlic and ginger, and stir-fry for 30 seconds until fragrant.</li>
-  <li>Toss in the vegetables and stir-fry for 3-4 minutes.</li>
-  <li>Add the cooked noodles and soy sauce, and mix well.</li>
-  <li>Garnish with spring onion and serve hot!</li>
+  <li><strong>Cook the lentils</strong>:
+    <ul>
+      <li>In a large pot, add lentils and enough water to cover. Bring to a boil, then reduce the heat and simmer for 15-20 minutes, until the lentils are soft.</li>
+    </ul>
+  </li>
+  <li><strong>Prepare the soup base</strong>:
+    <ul>
+      <li>In a separate pan, heat oil and sauté cumin seeds until they splutter.</li>
+      <li>Add the chopped onions and cook until soft, then stir in ginger-garlic paste.</li>
+      <li>Add the chopped tomatoes, turmeric, coriander powder, cumin powder, and salt. Cook until the tomatoes soften.</li>
+    </ul>
+  </li>
+  <li><strong>Combine the lentils and spinach</strong>:
+    <ul>
+      <li>Add the cooked lentils to the pan with the tomato-spice mixture. Stir well and let it cook for another 5-7 minutes.</li>
+      <li>Add the chopped spinach and cook until wilted.</li>
+    </ul>
+  </li>
+  <li><strong>Serve</strong>:
+    <ul>
+      <li>Adjust the seasoning to taste and serve with a squeeze of fresh lemon juice, if desired.</li>
+    </ul>
+  </li>
 </ol>
 
-<p>Perfect for a quick dinner or lunch.</p>]]></content><author><name></name></author><category term="recipes" /><category term="vegetarian" /><category term="quick-meals" /><summary type="html"><![CDATA[Looking for a quick and delicious meal? These Vegetarian Stir-Fried Noodles are packed with flavour and loaded with fresh veggies!]]></summary></entry><entry><title type="html">Classic Margherita Pizza</title><link href="http://localhost:4000/recipes/recipes/vegetarian/2024/06/17/margerita-pizza.html" rel="alternate" type="text/html" title="Classic Margherita Pizza" /><published>2024-06-17T13:00:00+01:00</published><updated>2024-06-17T13:00:00+01:00</updated><id>http://localhost:4000/recipes/recipes/vegetarian/2024/06/17/margerita-pizza</id><content type="html" xml:base="http://localhost:4000/recipes/recipes/vegetarian/2024/06/17/margerita-pizza.html"><![CDATA[<p>Nothing beats a classic <strong>Margherita Pizza</strong> with fresh basil, juicy tomatoes, and melty mozzarella. Here’s a simple recipe you can whip up in no time!</p>
+<p>Enjoy your <strong>Lentil Soup with Spinach</strong>!</p>]]></content><author><name></name></author><category term="recipes" /><category term="vegetarian" /><category term="soup" /><summary type="html"><![CDATA[Lentil Soup with Spinach is a nourishing and wholesome soup filled with protein-packed lentils and nutritious spinach. It’s comforting and easy to prepare.]]></summary></entry><entry><title type="html">Chana Masala</title><link href="http://localhost:4000/recipes/recipes/vegetarian/curry/2025/01/27/chana-masala.html" rel="alternate" type="text/html" title="Chana Masala" /><published>2025-01-27T12:00:00+00:00</published><updated>2025-01-27T12:00:00+00:00</updated><id>http://localhost:4000/recipes/recipes/vegetarian/curry/2025/01/27/chana-masala</id><content type="html" xml:base="http://localhost:4000/recipes/recipes/vegetarian/curry/2025/01/27/chana-masala.html"><![CDATA[<p><strong>Chana Masala</strong> is a flavourful, hearty dish made with chickpeas cooked in a rich, spiced tomato gravy. It’s nutritious, filling, and perfect with rice or naan.</p>
 
 <h2 id="ingredients">Ingredients:</h2>
 <ul class="ingredients-list">
-<li class="ingredient">1 pizza dough (store-bought or homemade)</li>
-<li class="ingredient">1 cup tomato sauce</li>
-<li class="ingredient">2 fresh tomatoes, sliced</li>
-<li class="ingredient">250g mozzarella cheese, sliced</li>
-<li class="ingredient">Fresh basil leaves</li>
-<li class="ingredient">Olive oil</li>
-<li class="ingredient">Salt and pepper to taste</li>
+<li class="ingredient">2 cups cooked chickpeas (or 1 can, drained)</li>
+<li class="ingredient">1 onion, finely chopped</li>
+<li class="ingredient">2 tomatoes, pureed</li>
+<li class="ingredient">1 tablespoon ginger-garlic paste</li>
+<li class="ingredient">1 teaspoon cumin seeds</li>
+<li class="ingredient">1 teaspoon coriander powder</li>
+<li class="ingredient">1 teaspoon cumin powder</li>
+<li class="ingredient">1/2 teaspoon turmeric powder</li>
+<li class="ingredient">1 teaspoon garam masala</li>
+<li class="ingredient">1/2 teaspoon red chili powder</li>
+<li class="ingredient">1 tablespoon oil</li>
+<li class="ingredient">1/2 teaspoon amchur (dried mango powder)</li>
+<li class="ingredient">Salt to taste</li>
+<li class="ingredient">Fresh cilantro for garnish</li>
 </ul>
 
 <h2 id="instructions">Instructions:</h2>
 <ol>
-  <li>Preheat the oven to 220°C (430°F).</li>
-  <li>Roll out the pizza dough and place it on a baking tray or pizza stone.</li>
-  <li>Spread the tomato sauce evenly on the dough.</li>
-  <li>Top with sliced tomatoes and mozzarella cheese.</li>
-  <li>Drizzle a little olive oil and season with salt and pepper.</li>
-  <li>Bake for 12-15 minutes or until the crust is golden and the cheese is bubbly.</li>
-  <li>Remove from the oven, garnish with fresh basil leaves, and enjoy!</li>
+  <li><strong>Cook the onions and spices</strong>:
+    <ul>
+      <li>Heat oil in a pan over medium heat. Add cumin seeds and let them splutter.</li>
+      <li>Add chopped onions and cook until golden brown.</li>
+      <li>Stir in ginger-garlic paste and cook for another minute.</li>
+    </ul>
+  </li>
+  <li><strong>Add the tomatoes and spices</strong>:
+    <ul>
+      <li>Add pureed tomatoes, turmeric powder, coriander powder, cumin powder, red chili powder, and salt. Cook for 5-7 minutes until the oil separates from the masala.</li>
+    </ul>
+  </li>
+  <li><strong>Add the chickpeas</strong>:
+    <ul>
+      <li>Add the cooked chickpeas to the masala and stir well. Add a bit of water if needed to adjust the consistency.</li>
+      <li>Simmer for 10-15 minutes, allowing the chickpeas to absorb the spices.</li>
+    </ul>
+  </li>
+  <li><strong>Finish the dish</strong>:
+    <ul>
+      <li>Stir in garam masala and amchur, then cook for another 2-3 minutes.</li>
+      <li>Garnish with fresh cilantro.</li>
+    </ul>
+  </li>
 </ol>
 
-<p>Enjoy your homemade classic Margherita Pizza!</p>]]></content><author><name></name></author><category term="recipes" /><category term="vegetarian" /><summary type="html"><![CDATA[Nothing beats a classic Margherita Pizza with fresh basil, juicy tomatoes, and melty mozzarella. Here’s a simple recipe you can whip up in no time!]]></summary></entry></feed>
+<p>Serve with rice or naan.</p>
+
+<p>Enjoy your <strong>Chana Masala</strong>!</p>]]></content><author><name></name></author><category term="recipes" /><category term="vegetarian" /><category term="curry" /><summary type="html"><![CDATA[Chana Masala is a flavourful, hearty dish made with chickpeas cooked in a rich, spiced tomato gravy. It’s nutritious, filling, and perfect with rice or naan.]]></summary></entry><entry><title type="html">Aloo Gobi</title><link href="http://localhost:4000/recipes/recipes/vegetarian/curry/2025/01/27/aloo-gobi.html" rel="alternate" type="text/html" title="Aloo Gobi" /><published>2025-01-27T12:00:00+00:00</published><updated>2025-01-27T12:00:00+00:00</updated><id>http://localhost:4000/recipes/recipes/vegetarian/curry/2025/01/27/aloo-gobi</id><content type="html" xml:base="http://localhost:4000/recipes/recipes/vegetarian/curry/2025/01/27/aloo-gobi.html"><![CDATA[<p><strong>Aloo Gobi</strong> is a simple yet delicious dish made with potatoes and cauliflower cooked in a spiced curry. It’s a comforting dish perfect for any meal.</p>
+
+<h2 id="ingredients">Ingredients:</h2>
+<ul class="ingredients-list">
+<li class="ingredient">2 medium potatoes, peeled and cubed</li>
+<li class="ingredient">1 small cauliflower, cut into florets</li>
+<li class="ingredient">1 onion, chopped</li>
+<li class="ingredient">2 tomatoes, chopped</li>
+<li class="ingredient">1 tablespoon ginger-garlic paste</li>
+<li class="ingredient">1 teaspoon cumin seeds</li>
+<li class="ingredient">1/2 teaspoon turmeric powder</li>
+<li class="ingredient">1 teaspoon coriander powder</li>
+<li class="ingredient">1/2 teaspoon cumin powder</li>
+<li class="ingredient">1/2 teaspoon red chili powder</li>
+<li class="ingredient">1 tablespoon oil</li>
+<li class="ingredient">Salt to taste</li>
+<li class="ingredient">Fresh cilantro for garnish</li>
+</ul>
+
+<h2 id="instructions">Instructions:</h2>
+<ol>
+  <li><strong>Sauté the onions and spices</strong>:
+    <ul>
+      <li>Heat oil in a large pan over medium heat. Add cumin seeds and let them splutter.</li>
+      <li>Add the chopped onions and sauté until golden brown.</li>
+      <li>Stir in ginger-garlic paste and cook for another minute.</li>
+    </ul>
+  </li>
+  <li><strong>Cook the tomatoes and spices</strong>:
+    <ul>
+      <li>Add chopped tomatoes, turmeric powder, coriander powder, cumin powder, red chili powder, and salt. Cook for 5-7 minutes until the tomatoes soften and the oil separates from the masala.</li>
+    </ul>
+  </li>
+  <li><strong>Add the potatoes and cauliflower</strong>:
+    <ul>
+      <li>Add the cubed potatoes and cauliflower florets to the pan. Stir well to coat the vegetables in the spices.</li>
+      <li>Add a splash of water and cover the pan. Cook for 15-20 minutes, stirring occasionally, until the vegetables are tender.</li>
+    </ul>
+  </li>
+  <li><strong>Finish the dish</strong>:
+    <ul>
+      <li>Garnish with fresh cilantro and serve with roti or rice.</li>
+    </ul>
+  </li>
+</ol>
+
+<p>Enjoy your <strong>Aloo Gobi</strong>!</p>]]></content><author><name></name></author><category term="recipes" /><category term="vegetarian" /><category term="curry" /><summary type="html"><![CDATA[Aloo Gobi is a simple yet delicious dish made with potatoes and cauliflower cooked in a spiced curry. It’s a comforting dish perfect for any meal.]]></summary></entry><entry><title type="html">Spinach and Ricotta Stuffed Shells</title><link href="http://localhost:4000/recipes/recipes/vegetarian/pasta/2025/01/27/spinach-ricotta-shell.html" rel="alternate" type="text/html" title="Spinach and Ricotta Stuffed Shells" /><published>2025-01-27T12:00:00+00:00</published><updated>2025-01-27T12:00:00+00:00</updated><id>http://localhost:4000/recipes/recipes/vegetarian/pasta/2025/01/27/spinach-ricotta-shell</id><content type="html" xml:base="http://localhost:4000/recipes/recipes/vegetarian/pasta/2025/01/27/spinach-ricotta-shell.html"><![CDATA[<p>These Spinach and Ricotta Stuffed Shells are a classic comfort food, filled with creamy ricotta cheese and spinach, then baked in marinara sauce for a satisfying meal.</p>
+
+<h2 id="ingredients">Ingredients:</h2>
+<ul class="ingredients-list"> 
+<li class="ingredient">20 large pasta shells</li> 
+<li class="ingredient">250g ricotta cheese</li> 
+<li class="ingredient">2 cups fresh spinach, chopped</li> <li class="ingredient">1 cup mozzarella cheese, shredded</li> 
+<li class="ingredient">1/2 cup Parmesan cheese, grated</li> <li class="ingredient">1 cup marinara sauce</li> 
+<li class="ingredient">1 tablespoon olive oil</li> 
+<li class="ingredient">1 teaspoon garlic powder</li> 
+<li class="ingredient">Salt and pepper to taste</li> 
+<li class="ingredient">Fresh basil for garnish</li> 
+</ul>
+
+<h2 id="instructions">Instructions:</h2>
+<p>Cook the pasta shells:</p>
+<ol>
+  <li>Boil the pasta shells in salted water according to package instructions. Drain and set aside.</li>
+</ol>
+
+<p>Prepare the filling:</p>
+<ol>
+  <li>In a large bowl, mix the ricotta cheese, chopped spinach, mozzarella cheese, Parmesan cheese, garlic powder, salt, and pepper. Stir until well combined.</li>
+</ol>
+
+<p>Stuff the shells:</p>
+<ol>
+  <li>Carefully stuff each cooked pasta shell with the ricotta-spinach mixture.</li>
+</ol>
+
+<p>Assemble the dish:</p>
+<ol>
+  <li>Preheat the oven to 180°C (350°F).</li>
+  <li>Spread a thin layer of marinara sauce in a baking dish. 3. Place the stuffed shells on top and cover with the remaining marinara sauce.</li>
+</ol>
+
+<p>Bake:</p>
+<ol>
+  <li>Sprinkle some extra mozzarella on top if desired and bake for 20-25 minutes or until bubbly and golden.</li>
+</ol>
+
+<p>Serve:</p>
+<ol>
+  <li>Garnish with fresh basil leaves and serve hot.</li>
+</ol>
+
+<p>Enjoy your Spinach and Ricotta Stuffed Shells!</p>]]></content><author><name></name></author><category term="recipes" /><category term="vegetarian" /><category term="pasta" /><summary type="html"><![CDATA[These Spinach and Ricotta Stuffed Shells are a classic comfort food, filled with creamy ricotta cheese and spinach, then baked in marinara sauce for a satisfying meal.]]></summary></entry><entry><title type="html">Pesarattu (Green Gram Pancakes)</title><link href="http://localhost:4000/recipes/recipes/vegetarian/breakfast/2025/01/25/pesarattu.html" rel="alternate" type="text/html" title="Pesarattu (Green Gram Pancakes)" /><published>2025-01-25T12:00:00+00:00</published><updated>2025-01-25T12:00:00+00:00</updated><id>http://localhost:4000/recipes/recipes/vegetarian/breakfast/2025/01/25/pesarattu</id><content type="html" xml:base="http://localhost:4000/recipes/recipes/vegetarian/breakfast/2025/01/25/pesarattu.html"><![CDATA[<p><strong>Pesarattu</strong> is a healthy and savory pancake made from green gram (moong dal). It’s commonly eaten for breakfast in South India.</p>
+
+<h2 id="ingredients">Ingredients:</h2>
+<ul class="ingredients-list">
+<li class="ingredient">1 cup green gram (moong dal), soaked for 4 hours</li>
+<li class="ingredient">1 small onion, chopped</li>
+<li class="ingredient">1-2 green chilies, chopped</li>
+<li class="ingredient">1/2 teaspoon cumin seeds</li>
+<li class="ingredient">1/2 teaspoon ginger, grated</li>
+<li class="ingredient">1/4 teaspoon turmeric powder</li>
+<li class="ingredient">Salt to taste</li>
+<li class="ingredient">Oil for cooking</li>
+<li class="ingredient">Fresh cilantro for garnish (optional)</li>
+</ul>
+
+<h2 id="instructions">Instructions:</h2>
+<ol>
+  <li><strong>Prepare the batter</strong>:
+    <ul>
+      <li>Blend the soaked green gram with water to form a smooth batter. Add cumin seeds, turmeric powder, ginger, salt, and green chilies to the batter.</li>
+    </ul>
+  </li>
+  <li><strong>Cook the pesarattu</strong>:
+    <ul>
+      <li>Heat a non-stick pan or griddle and lightly grease it with oil. Pour a ladle of the batter onto the pan and spread it in a circular motion to form a pancake.</li>
+    </ul>
+  </li>
+  <li><strong>Cook both sides</strong>:
+    <ul>
+      <li>Cook on medium heat for 2-3 minutes on one side, then flip it over and cook for another 2-3 minutes until golden brown.</li>
+    </ul>
+  </li>
+  <li><strong>Serve</strong>:
+    <ul>
+      <li>Serve hot with chutney or yogurt.</li>
+    </ul>
+  </li>
+</ol>
+
+<p>Enjoy your <strong>Pesarattu</strong>!</p>]]></content><author><name></name></author><category term="recipes" /><category term="vegetarian" /><category term="breakfast" /><summary type="html"><![CDATA[Pesarattu is a healthy and savory pancake made from green gram (moong dal). It’s commonly eaten for breakfast in South India.]]></summary></entry><entry><title type="html">Vegetable Upma</title><link href="http://localhost:4000/recipes/recipes/vegetarian/breakfast/2025/01/25/upma.html" rel="alternate" type="text/html" title="Vegetable Upma" /><published>2025-01-25T12:00:00+00:00</published><updated>2025-01-25T12:00:00+00:00</updated><id>http://localhost:4000/recipes/recipes/vegetarian/breakfast/2025/01/25/upma</id><content type="html" xml:base="http://localhost:4000/recipes/recipes/vegetarian/breakfast/2025/01/25/upma.html"><![CDATA[<p><strong>Vegetable Upma</strong> is a quick and wholesome South Indian breakfast made with semolina and mixed vegetables. It’s light yet filling.</p>
+
+<h2 id="ingredients">Ingredients:</h2>
+<ul class="ingredients-list">
+<li class="ingredient">1 cup semolina (rava)</li>
+<li class="ingredient">2 tablespoons oil or ghee</li>
+<li class="ingredient">1 teaspoon mustard seeds</li>
+<li class="ingredient">1/2 teaspoon cumin seeds</li>
+<li class="ingredient">1 sprig curry leaves</li>
+<li class="ingredient">1 green chili, chopped</li>
+<li class="ingredient">1 onion, chopped</li>
+<li class="ingredient">1/2 cup mixed vegetables (carrot, peas, beans, etc.)</li>
+<li class="ingredient">2.5 cups water</li>
+<li class="ingredient">Salt to taste</li>
+<li class="ingredient">Fresh cilantro for garnish</li>
+<li class="ingredient">Juice of half a lemon</li>
+</ul>
+
+<h2 id="instructions">Instructions:</h2>
+<ol>
+  <li><strong>Dry roast the semolina</strong>:
+    <ul>
+      <li>In a pan, dry roast the semolina on medium heat until aromatic. Remove and set aside.</li>
+    </ul>
+  </li>
+  <li><strong>Cook the tempering</strong>:
+    <ul>
+      <li>Heat oil or ghee in a pan. Add mustard seeds, cumin seeds, curry leaves, and green chili. Let them splutter.</li>
+    </ul>
+  </li>
+  <li><strong>Add vegetables</strong>:
+    <ul>
+      <li>Add the chopped onion and cook until translucent. Add the mixed vegetables and sauté for 2-3 minutes.</li>
+    </ul>
+  </li>
+  <li><strong>Add water and boil</strong>:
+    <ul>
+      <li>Add 2.5 cups of water and salt to the pan. Bring it to a boil.</li>
+    </ul>
+  </li>
+  <li><strong>Cook the upma</strong>:
+    <ul>
+      <li>Gradually add the roasted semolina while stirring to avoid lumps. Cook on low heat for 4-5 minutes until the water is absorbed.</li>
+    </ul>
+  </li>
+  <li><strong>Garnish and serve</strong>:
+    <ul>
+      <li>Turn off the heat, add lemon juice, and garnish with fresh cilantro. Serve hot.</li>
+    </ul>
+  </li>
+</ol>
+
+<p>Enjoy your <strong>Vegetable Upma</strong>!</p>]]></content><author><name></name></author><category term="recipes" /><category term="vegetarian" /><category term="breakfast" /><summary type="html"><![CDATA[Vegetable Upma is a quick and wholesome South Indian breakfast made with semolina and mixed vegetables. It’s light yet filling.]]></summary></entry></feed>
