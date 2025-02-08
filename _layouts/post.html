@@ -2,6 +2,16 @@
 layout: default
 ---
 
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title | escape }} | {{ site.title | escape }}</title>
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/main.css">
+  <link rel="icon" href="{{ site.baseurl }}/assets/images/logo.png" type="image/x-icon">
+  <!-- Add other meta tags and links here -->
+</head>
+
 <article>
   <h1>{{ page.title }}</h1>
   <p>{{ page.date | date: "%B %d, %Y" }}</p>
